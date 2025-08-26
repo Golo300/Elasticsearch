@@ -14,14 +14,13 @@
         };
 
         python-with-packages = pkgs.python311.withPackages (ps: with ps; [
-            SentenceTransformer
+            sentence-transformers
         ]);
       in {
         devShells.default = pkgs.mkShell {
           name = "ml-dev-shell";
           buildInputs = [
             python-with-packages
-            pkgs.vscode
           ];
 
         };
