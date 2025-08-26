@@ -1,0 +1,31 @@
+{
+  description = "Python ML environment with sklearn, seaborn, mlxtend etc.";
+
+  inputs = {
+    nixpkgs.url = "github:NixOS/nixpkgs/nixos-24.05";
+    flake-utils.url = "github:numtide/flake-utils";
+  };
+
+  outputs = { self, nixpkgs, flake-utils }:
+    flake-utils.lib.eachDefaultSystem (system:
+      let
+        pkgs = import nixpkgs {
+          inherit system;
+        };
+
+        python-with-packages = pkgs.python311.withPackages (ps: with ps; [
+            SentenceTransformer
+        ]);
+      in {
+        devShells.default = pkgs.mkShell {
+          name = "ml-dev-shell";
+          buildInputs = [
+            python-with-packages
+            pkgs.vscode
+          ];
+
+        };
+      }
+    );
+}
+
