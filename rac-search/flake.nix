@@ -1,5 +1,5 @@
 {
-  description = "Semantic-Search";
+  description = "Rac-Search";
 
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixos-24.05";
