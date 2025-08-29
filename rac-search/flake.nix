@@ -15,6 +15,9 @@
 
         python-with-packages = pkgs.python311.withPackages (ps: with ps; [
             sentence-transformers
+            chromadb
+            rank-bm25
+            openai
         ]);
       in {
         devShells.default = pkgs.mkShell {

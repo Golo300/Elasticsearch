@@ -1,0 +1,182 @@
+[
+  {
+    "id": "laptop_001",
+    "content": "Das ThinkPad X1 Carbon ist ein ultraleichtes Business-Laptop mit 14-Zoll WQHD Display. Es verfügt über einen Intel i7-1365U Prozessor der 13. Generation und 32GB LPDDR5 RAM. Die Akkulaufzeit beträgt bis zu 15 Stunden. Das Gerät wiegt nur 1.12kg und ist ideal für mobile Arbeit. Mit Thunderbolt 4, WiFi 6E und einer beleuchteten Tastatur.",
+    "metadata": {
+      "category": "Laptops",
+      "price": 2199,
+      "brand": "Lenovo"
+    }
+  },
+  {
+    "id": "laptop_002",
+    "content": "Das MacBook Air M3 13-Zoll bietet die neueste Apple Silicon Technologie mit dem M3 Chip. Ausgestattet mit 8GB unified Memory und 256GB SSD Speicher. Das Liquid Retina Display unterstützt eine Milliarde Farben. Bis zu 18 Stunden Batterielaufzeit und nur 1.24kg Gewicht. Verfügbar in Mitternacht, Silber, Polarstern und Space Grau.",
+    "metadata": {
+      "category": "Laptops",
+      "price": 1299,
+      "brand": "Apple"
+    }
+  },
+  {
+    "id": "laptop_003",
+    "content": "Das Dell XPS 13 Plus kombiniert Premium-Design mit leistungsstarker Hardware. Intel i7-1360P Prozessor, 16GB LPDDR5 RAM und 512GB NVMe SSD. Das 13.4-Zoll InfinityEdge Display bietet 4K+ Auflösung. Innovative kapazitive Touch-Funktionsleiste ersetzt klassische F-Tasten. Gewicht: 1.26kg, Akkulaufzeit bis 12 Stunden.",
+    "metadata": {
+      "category": "Laptops",
+      "price": 1799,
+      "brand": "Dell"
+    }
+  },
+  {
+    "id": "laptop_004",
+    "content": "Das HP Spectre x360 14-Zoll ist ein vielseitiges 2-in-1 Convertible. Intel i7-1255U Prozessor, 16GB RAM und 1TB SSD. Das OLED-Touchdisplay mit 2.8K Auflösung unterstützt 100% DCI-P3 Farbraum. 360-Grad-Scharnier ermöglicht Tablet-Modus. Inklusive HP Pen, WiFi 6E und bis zu 17 Stunden Akkulaufzeit. Gewicht: 1.39kg.",
+    "metadata": {
+      "category": "Laptops",
+      "price": 1699,
+      "brand": "HP"
+    }
+  },
+  {
+    "id": "laptop_005",
+    "content": "Das ASUS ZenBook 14 OLED bietet ein hochwertiges 14-Zoll OLED-Display mit 2.8K Auflösung. AMD Ryzen 7 7730U Prozessor mit 16GB RAM und 512GB SSD. Das Display unterstützt 100% DCI-P3 und ist PANTONE validiert. Kompaktes Design mit nur 1.39kg Gewicht und bis zu 15 Stunden Akkulaufzeit. Beleuchtete Tastatur und Fingerabdrucksensor inklusive.",
+    "metadata": {
+      "category": "Laptops",
+      "price": 999,
+      "brand": "ASUS"
+    }
+  },
+  {
+    "id": "laptop_006",
+    "content": "Das Surface Laptop 5 von Microsoft kombiniert elegantes Design mit solider Leistung. Intel i5-1235U Prozessor, 8GB RAM und 256GB SSD. Das 13.5-Zoll PixelSense Touchdisplay bietet lebendige Farben. Alcantara-Tastaturbereich für Premium-Haptik. Windows 11 vorinstalliert, bis zu 18 Stunden Akkulaufzeit, Gewicht: 1.29kg.",
+    "metadata": {
+      "category": "Laptops",
+      "price": 1299,
+      "brand": "Microsoft"
+    }
+  },
+  {
+    "id": "laptop_007",
+    "content": "Das ThinkPad T14s Gen 4 ist ein robustes Business-Notebook mit AMD Ryzen 7 PRO 7840U Prozessor. 16GB RAM und 512GB SSD bieten ausreichend Leistung für professionelle Anwendungen. Das 14-Zoll WUXGA Display ist entspiegelt und augenschonend. MIL-STD-810H zertifiziert für Langlebigkeit. TrackPoint und Trackpad, bis zu 16 Stunden Akkulaufzeit.",
+    "metadata": {
+      "category": "Laptops",
+      "price": 1549,
+      "brand": "Lenovo"
+    }
+  },
+  {
+    "id": "laptop_008",
+    "content": "Das MacBook Pro 14-Zoll M3 Pro richtet sich an kreative Profis. M3 Pro Chip mit 11-Core CPU und 14-Core GPU, 18GB unified Memory und 512GB SSD. Das Liquid Retina XDR Display bietet 1600 Nits Spitzenhelligkeit. ProRes-Beschleunigung für Videoschnitt. Bis zu 18 Stunden Batterielaufzeit, MagSafe 3 Laden, drei Thunderbolt 4 Anschlüsse.",
+    "metadata": {
+      "category": "Laptops",
+      "price": 2399,
+      "brand": "Apple"
+    }
+  },
+  {
+    "id": "laptop_009",
+    "content": "Das Gaming-Laptop ASUS ROG Zephyrus G14 bietet AMD Ryzen 9 7940HS Prozessor und NVIDIA RTX 4070 Grafikkarte. 16GB DDR5 RAM und 1TB NVMe SSD für schnelle Performance. Das 14-Zoll QHD Display mit 165Hz Bildwiederholrate ist perfekt für Gaming. AniMe Matrix LED-Display auf der Rückseite. Dolby Atmos Audio und RGB-Beleuchtung.",
+    "metadata": {
+      "category": "Laptops",
+      "price": 1899,
+      "brand": "ASUS"
+    }
+  },
+  {
+    "id": "laptop_010",
+    "content": "Das HP EliteBook 840 G10 ist ein sicheres Business-Laptop mit Intel i7-1355U Prozessor. 16GB RAM und 512GB SSD mit Verschlüsselung. Das 14-Zoll Full HD Display ist blendarm und unterstützt Sure View Privacy Screen. HP Wolf Security für erweiterten Schutz. Bis zu 17 Stunden Akkulaufzeit, schnelle Ladefunktion und umfassende Anschlussmöglichkeiten.",
+    "metadata": {
+      "category": "Laptops",
+      "price": 1449,
+      "brand": "HP"
+    }
+  },
+  {
+    "id": "laptop_011",
+    "content": "Das Dell Precision 3480 ist eine mobile Workstation mit Intel i7-1365U vPro Prozessor. NVIDIA RTX A500 Grafikkarte für professionelle Anwendungen. 32GB RAM und 1TB SSD für anspruchsvolle Workloads. ISV-zertifiziert für CAD, 3D-Modellierung und Engineering. Bis zu 8 Stunden Akkulaufzeit, robustes Design nach MIL-STD 810H Standard.",
+    "metadata": {
+      "category": "Laptops",
+      "price": 2199,
+      "brand": "Dell"
+    }
+  },
+  {
+    "id": "laptop_012",
+    "content": "Das Acer Swift 3 OLED bietet ein beeindruckendes 14-Zoll OLED-Display mit 2.8K Auflösung. AMD Ryzen 7 7730U Prozessor mit 16GB RAM und 512GB SSD. 100% DCI-P3 Farbraumabdeckung für kreative Arbeiten. Leichtgewichtiges Aluminiumgehäuse mit nur 1.25kg. WiFi 6E, Thunderbolt 4 und bis zu 10 Stunden Akkulaufzeit.",
+    "metadata": {
+      "category": "Laptops",
+      "price": 899,
+      "brand": "Acer"
+    }
+  },
+  {
+    "id": "laptop_013",
+    "content": "Das MSI Creator Z16P B13V ist für Content Creator entwickelt. Intel i7-13700H Prozessor und NVIDIA RTX 4060 Grafikkarte. 32GB DDR5 RAM und 1TB NVMe SSD. Das 16-Zoll QHD+ Display unterstützt 100% DCI-P3 und ist kalibrierfähig. Per-Key RGB Tastatur von SteelSeries. Thunderbolt 4, WiFi 6E und Killer Ethernet.",
+    "metadata": {
+      "category": "Laptops",
+      "price": 2299,
+      "brand": "MSI"
+    }
+  },
+  {
+    "id": "laptop_014",
+    "content": "Das Huawei MateBook X Pro kombiniert elegantes Design mit leistungsstarker Hardware. Intel i7-1260P Prozessor, 16GB RAM und 1TB SSD. Das 14.2-Zoll 3K FullView Display bietet 90% Screen-to-Body-Verhältnis. Huawei Share für nahtlose Smartphone-Integration. Gewicht nur 1.38kg, bis zu 11 Stunden Akkulaufzeit und 90W Schnellladen.",
+    "metadata": {
+      "category": "Laptops",
+      "price": 1599,
+      "brand": "Huawei"
+    }
+  },
+  {
+    "id": "laptop_015",
+    "content": "Das LG Gram 17 bietet ein großes 17-Zoll WQXGA Display bei nur 1.35kg Gewicht. Intel i7-1360P Prozessor mit 16GB RAM und 512GB SSD. Bis zu 19.5 Stunden Akkulaufzeit dank 80Wh Akku. Thunderbolt 4, USB-C, HDMI und MicroSD Kartenleser. MIL-STD-810G getestet für Robustheit trotz ultraleichtem Design.",
+    "metadata": {
+      "category": "Laptops",
+      "price": 1799,
+      "brand": "LG"
+    }
+  },
+  {
+    "id": "laptop_016",
+    "content": "Das Razer Blade 14 ist ein kompaktes Gaming-Laptop mit AMD Ryzen 9 7940HS Prozessor. NVIDIA RTX 4080 Grafikkarte für maximale Gaming-Performance. 32GB DDR5 RAM und 1TB SSD. Das 14-Zoll QHD Display mit 240Hz und G-Sync für flüssiges Gaming. CNC-gefrästes Aluminiumgehäuse, Chroma RGB Tastatur und THX Spatial Audio.",
+    "metadata": {
+      "category": "Laptops",
+      "price": 2899,
+      "brand": "Razer"
+    }
+  },
+  {
+    "id": "laptop_017",
+    "content": "Das Lenovo Legion 5 Pro bietet Gaming-Performance zum fairen Preis. AMD Ryzen 7 7745HX Prozessor und NVIDIA RTX 4060 Grafikkarte. 16GB DDR5 RAM und 512GB SSD. Das 16-Zoll WQXGA Display mit 165Hz und 500 Nits Helligkeit. Legion Coldfront Kühlsystem für optimale Temperaturen. RGB-Tastatur und Nahimic 3D Audio.",
+    "metadata": {
+      "category": "Laptops",
+      "price": 1399,
+      "brand": "Lenovo"
+    }
+  },
+  {
+    "id": "laptop_018",
+    "content": "Das HP Envy x360 13-Zoll ist ein vielseitiges 2-in-1 Convertible. AMD Ryzen 5 7530U Prozessor mit 8GB RAM und 256GB SSD. Das 13.3-Zoll OLED Touchdisplay bietet brillante Farben und 400 Nits Helligkeit. 360-Grad-Scharnier für verschiedene Modi. HP Pen inklusive, WiFi 6E und bis zu 15 Stunden Akkulaufzeit. Gewicht: 1.3kg.",
+    "metadata": {
+      "category": "Laptops",
+      "price": 899,
+      "brand": "HP"
+    }
+  },
+  {
+    "id": "laptop_019",
+    "content": "Das ASUS Vivobook S 15 OLED bietet ein beeindruckendes 15.6-Zoll OLED Display mit 2.8K Auflösung. Intel i5-13500H Prozessor, 16GB RAM und 512GB SSD. ASUS Dial für kreative Anwendungen und Shortcuts. Harman Kardon zertifiziertes Audio-System. WiFi 6E, Thunderbolt 4 und bis zu 9 Stunden Akkulaufzeit. Modernes Design in verschiedenen Farben.",
+    "metadata": {
+      "category": "Laptops",
+      "price": 1199,
+      "brand": "ASUS"
+    }
+  },
+  {
+    "id": "laptop_020",
+    "content": "Das Framework Laptop 13 ist ein modulares und reparierbares Notebook. Intel i5-1340P Prozessor mit 8GB RAM und 256GB SSD (erweiterbar). 13.5-Zoll 2256x1504 Display mit 3:2 Seitenverhältnis. Austauschbare Port-Module für individuelle Konnektivität. Open-Source Design, 55Wh Akku und WiFi 6E. Nachhaltigkeit durch Reparierbarkeit und Upgrades.",
+    "metadata": {
+      "category": "Laptops",
+      "price": 1049,
+      "brand": "Framework"
+    }
+  }
+]

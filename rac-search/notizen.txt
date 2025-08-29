@@ -1,0 +1,18 @@
+Ohne LLM können die gefunden Ergebnise schlecht in Kontext gesetzt werden
+Wenn man die Suche duch auf eine Maximal Zahl einschränkt hat das LLM nicht den ganzen Kontext:
+Was ist der billigste Laptop
+Eher nicht so gut für Produktkatalog da Kontext sehr groß wird.
+
+# 1. Nur Ollama Container starten  
+docker run -d -p 11434:11434 --name ollama \
+    -v ollama_data:/root/.ollama \
+    ollama/ollama
+
+# 2. Model laden
+docker exec ollama ollama pull llama3.2:3b
+
+# 3. Python Dependencies
+pip install sentence-transformers chromadb requests
+
+# 4. RAG starten
+python3 rag_with_local_llm.py
