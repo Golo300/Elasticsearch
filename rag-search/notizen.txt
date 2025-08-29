@@ -10,9 +10,3 @@ docker run -d -p 11434:11434 --name ollama \
 
 # 2. Model laden
 docker exec ollama ollama pull llama3.2:3b
-
-# 3. Python Dependencies
-pip install sentence-transformers chromadb requests
-
-# 4. RAG starten
-python3 rag_with_local_llm.py

@@ -1,0 +1,48 @@
+[
+  {
+    "id": "manual_001",
+    "content": "Der Bosch Serie 6 Geschirrspüler bietet verschiedene Programme wie Eco, Intensiv und Schnell. Um das Eco-Programm zu starten, drücken Sie die Taste 'Eco 50°C' und bestätigen mit Start. Verwenden Sie ausschließlich Geschirrspül-Tabs im vorgesehenen Fach.",
+    "metadata": {
+      "category": "Haushaltsgeräte",
+      "brand": "Bosch",
+      "model": "Serie 6"
+    }
+  },
+  {
+    "id": "manual_002",
+    "content": "Zum Einschalten des Samsung Smart TV drücken Sie die Power-Taste auf der Fernbedienung. Um das WLAN einzurichten, öffnen Sie im Menü Einstellungen > Netzwerk > WLAN und wählen Ihr Heimnetzwerk aus. Geben Sie das Passwort ein und bestätigen Sie.",
+    "metadata": {
+      "category": "Unterhaltungselektronik",
+      "brand": "Samsung",
+      "model": "QLED Q70"
+    }
+  },
+  {
+    "id": "manual_003",
+    "content": "Der Miele Staubsauger C3 verfügt über einen HEPA-Filter. Um den Staubbeutel zu wechseln, öffnen Sie die Frontklappe, ziehen den vollen Beutel heraus und setzen einen neuen ein. Schließen Sie die Klappe fest, bis sie hörbar einrastet.",
+    "metadata": {
+      "category": "Haushaltsgeräte",
+      "brand": "Miele",
+      "model": "C3"
+    }
+  },
+  {
+    "id": "manual_004",
+    "content": "Die Bedienung der Sony Alpha 7 IV Kamera erfolgt über das Moduswahlrad. Wählen Sie 'M' für manuellen Modus. Stellen Sie Belichtungszeit mit dem vorderen Rad und Blende mit dem hinteren Rad ein. ISO können Sie über die Menü-Taste konfigurieren.",
+    "metadata": {
+      "category": "Kameras",
+      "brand": "Sony",
+      "model": "Alpha 7 IV"
+    }
+  },
+  {
+    "id": "manual_005",
+    "content": "Um den Wasserkocher Philips HD9350 zu benutzen, füllen Sie Wasser bis zur Maximalmarkierung. Stellen Sie den Wasserkocher auf die Basisstation und drücken Sie den Schalter nach unten. Das Gerät schaltet sich automatisch ab, sobald das Wasser kocht.",
+    "metadata": {
+      "category": "Küchengeräte",
+      "brand": "Philips",
+      "model": "HD9350"
+    }
+  }
+]
+

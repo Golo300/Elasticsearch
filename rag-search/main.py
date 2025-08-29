@@ -156,9 +156,7 @@ class LocalRAG:
 Kontext:
 {context}
 
-Frage: {query}
-
-Gib eine kurze, präzise Antwort in der gleichen Sprache wie die Frage:"""
+Frage: {query} """
 
         try:
             print("Generiere Antwort mit Llama...")

@@ -1,0 +1,3364 @@
+Duale Hochschule Baden-Württemberg · Präsidium
+Friedrichstraße 14, 70174 Stuttgart
+
+
+
+
+       Amtliche Bekanntmachungen der Dualen Hochschule Baden-Württemberg
+
+                                        Nr. 21/2023
+                                      (24. Juli 2023)
+ __________________________________________________________________________
+
+
+Studien- und Prüfungsordnung für die Bachelorstudiengänge im Studienbereich Technik
+
+                   der Dualen Hochschule Baden-Württemberg (DHBW)
+        (Studien- und Prüfungsordnung DHBW Technik – StuPrO DHBW Technik)
+
+
+                                 vom 29. September 2017
+
+
+                      einschließlich der Siebten Änderungssatzung
+
+
+                                     vom 24. Juli 2023
+
+
+
+Der Senat der Dualen Hochschule Baden-Württemberg (DHBW) hat aufgrund von §§ 8 Absatz
+
+5, 19 Absatz 1 Satz 2 Nummer 9, 32 Absatz 3 des Gesetzes über die Hochschulen in Baden-
+Württemberg (Landeshochschulgesetz - LHG) in der Fassung vom 1. April 2014 (GBl. S. 99),
+das zuletzt durch Artikel 4 des des Gesetzes zur Änderung des Landeshochschulgesetzes und
+
+anderer Gesetze vom 21. Dezember 2022 (GBl. S. 649, 650) geändert worden ist, in seiner
+Sitzung am 11. Juli 2023 nachfolgende Satzung beschlossen, zuletzt vom Senat geändert in
+
+seiner Sitzung am 12. Juli 2022. Das Präsidium der DHBW hat dieser Satzung in seiner Sitzung
+am 3. Juli 2023 zugestimmt. Die Präsidentin der DHBW hat am 24. Juli 2023 gemäß § 32 Absatz
+
+3 Satz 1 LHG ihre Zustimmung erteilt und wurde zur vorliegenden Neubekanntmachung
+ermächtigt, die Änderungen bis einschließlich der Siebten Satzung zur Änderung der Studien-
+
+und Prüfungsordnung für die Bachelorstudiengänge im Studienbereich Technik der Dualen
+Hochschule Baden-Württemberg (DHBW) vom 24. Juli 2023 (Amtliche Bekanntmachungen der
+Dualen Hochschule Baden-Württemberg 20/2023 vom 24. Juli 2023) enthält.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                      1 / 51
+Inhaltsübersicht
+
+
+
+1. ABSCHNITT - Allgemeines                                                  4
+      § 1 Ziel des Studiums und der Prüfungen                               4
+      § 2 Dauer und Gliederung des Studiums                                 4
+
+      § 3 Modularisierung                                                   4
+      § 4 Organisation des Studiums                                         5
+2. ABSCHNITT – Prüfungen                                                    6
+
+      § 5 Prüfungsleistungen                                                6
+      § 6 Zulassung zu einer Modulprüfung; Beginn des Prüfungsrechtsverhältn7sses
+      § 7 Bestehen der Modulprüfungen                                       7
+      § 8 Notenbekanntgabe                                                  8
+
+      § 9 Anerkennung von Studien- und Prüfungsleistungen                   8
+      § 10 Bewertung von Prüfungsleistungen                                 9
+      § 11 Versäumnis, Rücktritt, Täuschung, Ordnungsverstoß               10
+
+      § 12 Verlängerung der Bearbeitungszeit                               11
+      § 13 Nachholung von Prüfungsleistungen                               11
+      § 14 Schutzfristen; Nachteilsausgleich                               12
+      § 15 Prüfung von Theoriemodulen                                      13
+
+      § 16 Prüfung von Praxisprojekte                                      14
+      § 17 Wiederholung von Prüfungsleistungen                             15
+3. ABSCHNITT – Bachelorarbeit                                              17
+
+      § 18 Zweck und organisatorischer Ablauf                              17
+      § 19 Betreuung und Bewertung                                         17
+      § 20 Bestehen und Wiederholung                                       17
+4. ABSCHNITT - Bachelor-Abschluss                                          18
+
+      § 21 Studienabschluss und Bachelor-Gesamtnote                        18
+      § 22 Abschlussdokumente und Hochschulgrad                            19
+      § 23 Nichtbestehen der Prüfung und Aberkennung des Hochschulgrades   19
+5. ABSCHNITT - Schlussbestimmungen                                         20
+
+      § 24 Aufbewahrung von Prüfungsunterlagen, Akteneinsicht              20
+      § 25 Überdenkungsverfahren                                           20
+
+      § 26 Mängel im Prüfungsverfahren                                     20
+      § 27 Inkrafttreten                                                   21
+Anlage 1                                                                   22
+1. Prüfungsformen nach § 5 Absatz 1 im Studienbereich Technik              22
+
+      1.1 Erläuterung der Prüfungsleistungen                               22
+      1.1.1 Bericht zum Ablauf und zur Reflexion der Praxisphase (ARB)     22
+      1.1.2 Entwurf (E)                                                    22
+      1.1.3 Hausarbeit (HA)                                                22
+
+      1.1.4 Klausurarbeit (K)                                              22
+      1.1.5 Kombinierte Prüfung (KP)                                       22
+      1.1.6 Konstruktionsentwurf (KE)                                      23
+
+      1.1.7 Laborarbeit einschließlich Ausarbeitung (LA)                   23
+      1.1.8 Mündliche Prüfung (MP)                                         23
+
+                                                                           2 / 51
+      1.1.8.1 Mündliche Prüfung Theoriemodul (MP-T)                            23
+      1.1.8.2 Mündliche Prüfung Praxisprojekt (MP-P)                           23
+
+      1.1.9 Programmentwurf (PE)                                               23
+      1.1.10 Projektarbeit (PA)                                                23
+      1.1.11 Referat (R)                                                       23
+
+      1.1.12 Studienarbeit (S)                                                 23
+      1.1.13 Bachelorarbeit (B)                                                24
+      1.1.14 Sonstiges                                                         24
+      1.2 Prüfungsleistungen im Antwort-Wahl-Verfahren                         24
+
+      1.3. Prüfungsleistungen in elektronischer Form                           25
+2. Erläuterungen zu den Modulen (zu § 3 und § 4)                               26
+      Kernmodule                                                               26
+
+      Studienrichtungsmodule                                                   26
+      Wahlmodule                                                               26
+      ECTS-Leistungspunkte für studentisches Engagement                        26
+      Begleitetes Selbststudium                                                26
+
+Anlage 2Übersicht über die Modul- und Prüfungspläne der Studiengänge im
+      Studienbereich Technik                                                   27
+      1. Architektur                                                           28
+      2. Bauingenieurwesen für die Studierenden, die bis zum 30. September 2020
+
+            immatrikuliert wurden                                              29
+      3. Bauingenieurwesen für die Studierenden, die ab dem 1. Oktober 2020
+            immatrikuliert wurden                                              30
+
+      4. Chemische Technik für die Studierenden, die bis zum 30. September 2021
+            immatrikuliert wurden                                              31
+      5. Chemische Technik für die Studierenden, die ab dem 1. Oktober 2021 immatrikuliert
+            wurden                                                             32
+
+      6. Elektrotechnik                                                        33
+      7. Embedded Systems                                                      34
+      8. Holztechnik                                                           35
+      9. Informatik                                                            36
+
+      10. Integrated Engineering                                               37
+      11. Luft- und Raumfahrttechnik                                           38
+      12. Maschinenbau                                                         39
+      13. Mechatronik                                                          40
+
+      14. Medizintechnik                                                       41
+      15. Papiertechnik                                                        42
+      16. Sicherheitswesen                                                     43
+
+      17. Sustainable Science and Technology für die Studierenden, die bis zum 30.
+            September 2023 immatrikuliert wurden                               44
+      18. Sustainable Science and Technology für die Studierenden, die ab dem 1. Oktober
+            2023 immatrikuliert wurden                                         45
+
+      19. Wirtschaftsingenieurwesen                                            46
+Anlage 3Notendefinitionen und Notenbeschreibungen                              47
+Anlage 4Modifizierte Bayerische Formel                                         50
+
+
+
+                                                                               3 / 51
+1. ABSCHNITT - Allgemeines
+
+
+
+§ 1 Ziel des Studiums und der Prüfungen
+
+
+(1) Die Studierenden sollen durch das Studium die Kompetenzen erwerben, die erforderlich
+sind, um in der Berufspraxis die fachlichen Zusammenhänge zu überblicken, wissenschaftliche
+Erkenntnisse anzuwenden und Probleme übergreifend zu lösen.
+
+
+(2) Die Prüfungen dienen der Feststellung, ob die Studierenden die in Absatz 1 genannten Ziele
+
+erreicht haben.
+
+
+
+§ 2 Dauer und Gliederung des Studiums
+
+    1
+(1) Der Bachelor-Grad an der Dualen Hochschule Baden-Württemberg (DHBW) wird in der
+Regel nach drei Jahren Studium in Theorie und Praxis erreicht. Abweichend von Satz 1 wird
+der Bachelor-Grad im Studiengang „Architektur“ in der Regel nach dreieinhalb Jahren erreicht.
+
+
+(2) Das Studium an der DHBW gliedert sich in jedem Studienjahr in Theoriephasen an der
+                                                                                        2
+Studienakademie und in Praxisphasen beim Dualen Partner (Ausbildungsstätte).            Dabei
+entspricht in der Regel die Gesamtdauer der Theoriephasen der der Praxisphasen. Die Abfolge
+der Phasen wird im Phasenplan festgelegt, der den Studierenden bekannt zu geben ist.
+
+
+(3) Die Studien- und Prüfungsleistungen müssen in der Regel innerhalb von fünf Jahren nach
+                                  2                                                      3
+Studienbeginn erbracht werden. Anderenfalls geht der Prüfungsanspruch verloren. § 14
+Absatz 2 bleibt davon unberührt. Zeiten der Beurlaubung bleiben unberücksichtigt.
+
+
+
+§ 3 Modularisierung
+
+
+(1) Das Studium an der DHBW ist modular aufgebaut.
+
+    1
+(2) Entsprechend der Arbeitsbelastung der Studierenden durch Präsenzstunden (inklusive
+Prüfungen) und Selbststudium (inklusive Prüfungsvorbereitung) werden für die Module ECTS-
+Leistungspunkte nach dem European Credit Transfer System (ECTS) vergeben. Ein ECTS-2
+
+Leistungspunkt entspricht einem Arbeitsaufwand von 30 Stunden.
+
+
+(3) Die zu absolvierenden Module, die zu erbringenden Prüfungsleistungen sowie die zu
+erwerbenden ECTS-Leistungspunkte sind in den jeweiligen Modul- und Prüfungsplänen
+(Anlage 2) festgelegt.
+
+
+(4) Die ECTS-Leistungspunkte werden jeweils in ihrer Summe für ein erfolgreich
+
+abgeschlossenes Modul vergeben.
+
+(5) Die DHBW kann Zusatzmodule anbieten, die pro Studienjahr im Umfang von maximal 5
+
+ECTS-Leistungspunkten freiwillig belegt und mit einer Prüfungsleistung abgeschlossen werden
+
+                                                                                         4 / 51
+können. Hierfür können ECTS-Leistungspunkte vergeben und auf dem Transcript of Records
+
+(ToR) ausgewiesen werden, die aber bei der Ermittlung der 210 ECTS-Leistungspunkte für den
+Bachelorabschluss beziehungsweise im Studiengang „Architektur“ bei der Ermittlung der 240
+ECTS-Leistungspunkte, nicht berücksichtigt werden.        3Zusatzmodule sind Module, die
+
+akkreditiert und im aktuellen Modulkatalog enthalten sind.
+
+(6)  Ein fachlich entsprechendes Wahlmodul des Studiengangs kann auf Antrag für
+
+entsprechende Leistungen im sozialen Bereich innerhalb der Hochschule und/oder durch
+Engagement im Rahmen der Vertretung studentischer Interessen durch das Modul „Soziale
+                                2
+Kompetenzen“ ersetzt werden. Die Studienakademie entscheidet, in welchen Modulen dies
+möglich ist. § 9 Absatz 3 findet entsprechende Anwendung.
+
+
+(7) Die Lehrveranstaltungen werden in deutscher oder englischer Sprache abgehalten;
+Lehrveranstaltungen in anderen Sprachen sind nach Maßgabe der Modulbeschreibung
+möglich.
+
+
+
+§ 4 Organisation des Studiums
+
+
+(1) Grundlage für den Ablauf des Studiums sowie die Organisation des Studienbetriebs und der
+
+Prüfungen sind die Modul- und Prüfungspläne (Anlage 2).
+
+(2) Das Ersetzen von Modulen, wesentliche Änderungen der Zielsetzungen oder Inhalte eines
+
+Moduls sowie Veränderungen der Modulstruktur bedürfen der Beschlussfassung durch die
+zuständigen, zentralen DHBW-Gremien gemäß der von der DHBW festgelegten Leitlinien.
+
+
+(3) Standortspezifische Gestaltungsmöglichkeiten innerhalb des durch den Rahmenstudienplan
+oder die Modulbeschreibungen vorgegebenen Rahmens sind zu Beginn eines jeden Moduls
+durch die Studiengangsleitung festzulegen und den Studierenden bekannt zu geben.
+
+
+(4) Der Lehrkörper besteht aus den Hochschullehrerinnen und Hochschullehrern und den
+
+Lehrbeauftragten sowie d2n mit Lehre beauftragten Akademischen Mitarbeiterinnen und
+Mitarbeitern der DHBW. Lehrbeauftragte müssen die Voraussetzungen des § 56 Absatz 2 Satz
+1 LHG erfüllen.    3Bei mit der Lehre beauftragten Akademischen Mitarbeiterinnen und
+
+Mitarbeitern müssen die Voraussetzungen des § 52 Absatz 1 Satz 5 und 6 Halbsatz 2 LHG
+vorliegen; sofern sie mit der Betreuung und Bewertung von Projekt-, Studien- und
+Bachelorarbeiten betraut werden, müssen sie zudem mindestens die Voraussetzungen des
+
+§ 47 Absatz 1 Nummern 1 und 2 oder Absatz 4 LHG erfüllen und nach Vorbildung, Fähigkeit
+und fachlicher Leistung dem für sie vorgesehenen Aufgabengebiet entsprechen. § 15 Absatz 6
+gilt entsprechend.
+
+
+
+
+
+
+
+
+
+
+
+                                                                                        5 / 51
+2. ABSCHNITT – Prüfungen
+
+
+
+§ 5 Prüfungsleistungen
+
+
+(1) Prüfungsleistungen werden durch folgende Prüfungsformen erbracht:
+
+       1. Bericht zum Ablauf und zur Reflexion der Praxisphase (ARB),
+
+       2. Entwurf (E)
+       3. Hausarbeit (HA),
+       4. Klausurarbeit (K),
+
+       5. Kombinierte Prüfung (KP).
+       6. Konstruktionsentwurf (KE),
+       7. Laborarbeit einschließlich Ausarbeitung (LA),
+
+       8. Mündliche Prüfung (MP),
+       9. Programmentwurf (PE),
+       10. Projektarbeit (PA),
+
+       11. Referat (R),
+       12. Studienarbeit (S),
+       13. Bachelorarbeit (B).
+
+
+(2) Die Prüfungsleistungen werden nach Maßgabe des § 10 sowie der Anlage 2 benotet oder
+unbenotet erbracht.
+
+   1
+(3) Die näheren Anforderungen an die Prüfungsleistungen und die Prüfungsformen sowie ihre
+spezifischen Merkmale ergeben sich aus den Anlagen 1 und 2. In den Modulbeschreibungen
+sind Form und Umfang der zu erbringenden Prüfungsleistungen sowie die Qualifikationsziele
+             3
+festgelegt.   Die   Studiengangsleitung    gibt  die  Anforderungen,    die   zu  erbringenden
+Prüfungsleistungen und Prüfungsformen sowie die Bewertungsmodalitäten spätestens zu
+Beginn des jeweiligen Moduls bekannt. Bei einer Kombination mehrerer Prüfungsformen oder
+                                                                                            5
+Prüfungsformen, die aus mehreren Prüfungsteilen bestehen, erfolgt eine Punktevergabe. Die
+Modulnote ergibt sich in diesem Fall aus der Punkteverrechnung der einzelnen Prüfungsteile.
+
+    1
+(4) Bei selbstständig und ohne Aufsicht zu erstellenden Arbeiten haben die Studierenden
+schriftlich zu versichern, dass die Prüfungsleistung selbstständig und nur mit den angegebenen
+Quellen und Hilfsmitteln verfasst wurde, sowie dass die eingereichte elektronische Version mit
+                                                                                          2
+der gegebenenfalls eingereichten gedruckten Version inhaltlich übereinstimmt.              Eine
+ausschließlich elektronische Abgabe von selbstständig und ohne Aufsicht zu erstellenden
+Prüfungsleistungen sowie der schriftlichen Versicherung nach Satz 1 ist möglich, sofern die
+
+Studienakademie hierfür ein geeignetes IT-System bereitstellt.
+
+(5) Die Termine für die Erbringung von Prüfungsleistungen sind in der Regel mindestens vier
+
+Wochen vorher mitzuteilen, sofern in dieser Satzung nichts anderes bestimmt ist.
+
+(6) Prüfungsleistungen können bei Modulen, in denen die Lehrveranstaltungen in einer
+
+Fremdsprache abgehalten werden, ganz oder teilweise in der entsprechenden Fremdsprache
+durchgeführt werden.
+
+                                                                                           6 / 51
+(7) In unbenoteten Theoriemodulen ist ein Leistungsnachweis zu erbringen.
+
+
+(8) Prüfungsleistungen im Antwort-Wahl-Verfahren (zum Beispiel Multiple-Choice-Fragen) sind
+unter den Voraussetzungen der in Anlage 1 Nummer 1.2 aufgeführten Bestimmungen zulässig.
+
+
+(9) Prüfungsleistungen können elektronisch (computerunterstützt) erbracht werden.          2Das
+Nähere regelt Anlage 1 Nummer 1.3.
+
+
+(10) Klausurarbeiten sind in der Weise zu anonymisieren, dass die zu prüfende Person
+
+ausschließlich ihre Matrikelnummer angibt.
+
+(11) Bei der Festlegung der konkreten Prüfungsformen für die Module ist zu beachten, dass je
+
+Semester maximal sechs Klausurarbeiten geschrieben werden und mindestens sechs
+Theoriemodule, bezogen auf die gesamte Studiendauer, keine Klausur oder nur einen
+
+Klausuranteil von unter 50 % der Prüfungsleistung als Prüfungsform aufweisen dürfen.
+
+
+
+§ 6 Zulassung zu einer Modulprüfung; Beginn des Prüfungsrechtsverhältnisses
+
+     1
+(1)  Zu einer Prüfungsleistung ist zugelassen, wer in dem betreffenden Studiengang
+immatrikuliert ist, den Prüfungsanspruch für den betreffenden Studiengang nicht endgültig
+verloren und die vorgesehenen Studienphasen absolviert hat. Die Zulassung erfolgt mit Beginn
+                                                                                        3
+der Theorie- und Praxisphase, in welcher die Prüfungsleistung durchgeführt wird. Davon
+abweichend erfolgt die Zulassung bei Prüfungsleistungen, deren Bearbeitung sich über
+                                                                       4
+mehrere Phasen erstreckt, mit der Stellung der Prüfungsaufgabe. Mit der Zulassung zur
+Prüfungsleistung beginnt das jeweilige Prüfungsrechtsverhältnis, das zu Ende zu führen ist.
+
+    1
+(2) Für Prüfungen, deren Erstversuch noch bevorsteht, entfällt die Zulassung wieder, wenn
+nach der Zulassung der Prüfungsanspruch aufgrund endgültigem Nichtbestehens eines Moduls
+                                                       2
+eines zurückliegenden Semesters verloren wurde.         Maßgeblich für die Bestimmung des
+Zeitpunkts, ab dem die Zulassung entfällt, ist der Zugang des Bescheids über den Verlust des
+Prüfungsanspruchs gemäß § 8 Absatz 2 beim Prüfling.
+
+
+(3) Die oder der Studierende ist aus dem Prüfungsrechtsverhältnis zu entlassen, wenn sie oder
+er vor dem tatsächlichen Prüfungsbeginn einen Antrag auf Exmatrikulation und auf Entlassung
+                                                                                     2
+aus dem Prüfungsrechtsverhältnis stellt; dies gilt nicht für Wiederholungsprüfungen. Sofern die
+oder der Studierende gemäß § 11 Absatz 1 und 2 aus wichtigem Grund wirksam von einer
+                                                                                             3
+Prüfungsleistung zurückgetreten ist, gilt diese Prüfungsleistung als noch nicht begonnen. Im
+Fall einer Exmatrikulation gelten die im jeweiligen Modul bereits erbrachten Prüfungsteile als
+nicht begonnen.
+
+
+
+
+§ 7 Bestehen der Modulprüfungen
+
+(1) Jedes Modul wird mit einer Prüfung abgeschlossen (Modulprüfung); diese besteht in der
+                                     2
+Regel aus einer Prüfungsleistung. In begründeten Ausnahmefällen kann sie aus mehreren
+
+                                                                                           7 / 51
+Prüfungsleistungen bestehen. Aus den Modulbeschreibungen ergeben sich die Art, die Anzahl
+                                         4
+und der Umfang der Prüfungsleistungen. Diese sind zu Beginn des Moduls den Studierenden
+bekannt zu geben.
+
+
+(2) Für jedes Modul wird eine Modulnote gebildet. Dies gilt nicht, soweit die Modulprüfung nur
+aus einer oder mehreren unbenoteten Prüfungsleistungen besteht. Besteht die Modulprüfung
+                                                                                    4
+aus einer benoteten Prüfungsleistung, ist die Note der Prüfungsleistung die Modulnote. Besteht
+die Modulprüfung aus mehreren benoteten Prüfungsleistungen, ist die Modulnote das
+arithmetische Mittel der einzelnen Prüfungsleistungen; sofern in dieser Satzung oder der
+
+Modulbeschreibung nichts anderes geregelt ist, wird bei der Bildung der Modulnote nur die erste
+Dezimalstelle ohne Rundung berücksichtigt. Die Modulnoten werden mit der Notenstufe und
+
+dem Notenwert mit der ersten Dezimalstelle angegeben.
+
+(3)  Die   Modulprüfung    ist  bestanden,    wenn    alle  zu   erbringenden   unbenoteten
+
+Prüfungsleistungen mit „bestanden“ und die benoteten Prüfungsleistungen mit mindestens der
+Note „ausreichend“ (4,0) bewertet wurden.
+
+
+
+§ 8 Notenbekanntgabe
+
+
+(1) Die Studierenden erhalten für jedes Semester einen Bescheid mit Rechtsbehelfsbelehrung
+über die in diesem Semester abgeschlossenen Module.
+
+
+(2) Im Falle des endgültigen Nichtbestehens einer Prüfungsleistung erhalten die Studierenden
+
+einen Bescheid mit Rechtsbehelfsbelehrung.
+
+(3) Der Bescheid nach Absatz 1 und 2 erfolgt in schriftlicher Form oder durch elektronische
+
+Kommunikation; § 4 der Immatrikulationssatzung der Dualen Hochschule Baden-Württemberg
+für Bachelorstudiengänge in ihrer jeweils gültigen Fassung findet Anwendung.
+
+
+
+§ 9 Anerkennung von Studien- und Prüfungsleistungen
+
+
+(1) Studien- und Prüfungsleistungen sowie Studienabschlüsse, die in Studiengängen an
+staatlichen oder staatlich anerkannten Hochschulen und Berufsakademien der Bundesrepublik
+
+Deutschland oder in Studiengängen an ausländischen staatlichen oder staatlich anerkannten
+Hochschulen erbracht worden sind, werden anerkannt, sofern hinsichtlich der erworbenen
+
+Kompetenzen kein w2sentlicher Unterschied zu den Leistungen oder Abschlüssen besteht, die3
+ersetzt werden.    Die entsprechenden ECTS-Leistungspunkte sind zu vergeben.             Die
+Anerkennung dient der Fortsetzung des Studiums, dem Ablegen von Prüfungen oder der
+
+Aufnahme eines weiteren Studiums.
+
+(2) 1Werden Studien- und Prüfungsleistungen anerkannt, sind die Noten, soweit die
+
+Notensysteme vergleichbar sind, zu übernehmen und in die Berechnung der Gesamtnote
+einzubeziehen. Sind die Notensysteme nicht vergleichbar, werden die Noten umgerechnet.
+3Die Umrechnung erfolgt nach der modifizierten Bayerischen Formel gemäß Anlage 4. Liegen
+
+keine Noten vor, wird der Vermerk „bestanden“ aufgenommen; eine Einbeziehung in die
+
+                                                                                        8 / 51
+                                           5
+Berechnung der Gesamtnote erfolgt nicht. Die anerkannten Studien- und Prüfungsleistungen
+werden im Zeugnis, Transcript of Records und Diploma Supplement als solche gekennzeichnet.
+
+    1
+(3) Der Antrag auf Anerkennung ist spätestens vier Wochen nach Beginn der jeweiligen
+Theoriephase, in der das Modul erstmalig stattfindet, bei der Studiengangsleitung zu stellen.
+2Es obliegt der Antragstellerin oder dem Antragsteller, die erforderlichen Informationen über die
+                                              3
+anzuerkennende Leistung bereitzustellen.       Die Beweislast dafür, dass ein Antrag die
+Voraussetzungen für die Anerkennung nicht erfüllt, liegt bei der Studienakademie. Der Antrag
+auf Anerkennung kann nicht mehr gestellt werden, sobald sich die zu prüfende Person einer
+
+Modulprüfung der jeweils zugeordneten5Theoriephase nach Maßgabe dieser Satzung
+unterzieht oder unterzogen hat.       Nach positiver Entscheidung über den Antrag auf
+Anerkennung ist eine Teilnahme an der betreffenden Studien- und Prüfungsleistung
+ausgeschlossen.
+
+
+(4) Soweit Vereinbarungen und Abkommen der Bundesrepublik Deutschland mit anderen
+Staaten über Gleichwertigkeiten im Hochschulbereich (Äquivalenzabkommen) Studierende
+
+ausländischer Staaten abweichend von Absatz 1 begünstigen, gehen die Regelungen der
+Äquivalenzabkommen vor.
+
+
+(5) Zur Anerkennung von Studien- und Prüfungsleistungen, die Studierende der DHBW im
+Rahmen eines Auslandsstudiums erbringen, findet die Richtlinie der DHBW zur Anerkennung
+von im Ausland erbrachten Leistungen und Notenumrechnung in der jeweils gültigen Fassung
+
+ergänzende Anwendung.
+
+(6) Außerhalb des Hochschulsystems erworbene Kenntnisse und Fähigkeiten, können im
+
+Rahmen der DHBW „Satzung zur Regelung der Anrechnung von außerhalb des
+Hochschulbereichs erworbenen Kenntnisse und Fähigkeiten“ angerechnet werden, soweit die
+Voraussetzungen des § 35 Absatz 3 LHG erfüllt sind.
+
+
+(7) Die Vorschrift des § 35 LHG bleibt von dieser Regelung unberührt.
+
+
+
+§ 10 Bewertung von Prüfungsleistungen
+
+(1) Die einzelnen benoteten Prüfungsleistungen und Prüfungen werden gemäß Anlage 3 wie
+
+folgt bewertet:
+
+Notenwert:           Notenstufe:           Notenbeschreibung:
+
+1,0 bis 1,5          = sehr gut            = eine hervorragende Leistung;
+1,6 bis 2,5          = gut                 = eine erheblich über dem Durchschnitt liegende
+                                           Leistung;
+2,6 bis 3,5          = befriedigend        = eine Leistung, die durchschnittlichen
+
+                                           Anforderungen entspricht;
+3,6 bis 4,0          = ausreichend         = eine Leistung, die trotz ihrer Mängel noch den
+                                           Anforderungen genügt;
+
+4,1 bis 5,0          = nicht ausreichend = eine Leistung, die wegen erheblicher Mängel den
+                                           Anforderungen nicht mehr genügt.
+
+                                                                                         9 / 51
+2Zur differenzierten Bewertung der Prüfungsleistungen können Zwischennoten mit einer
+Dezimalstelle vergeben werden.
+
+
+(2) Unbenotete Prüfungsleistungen werden mit „bestanden“ oder „nicht bestanden“ bewertet.
+
+
+
+§ 11 Versäumnis, Rücktritt, Täuschung, Ordnungsverstoß
+
+
+(1) Eine Prüfungsleistung gilt als mit der Note “nicht ausreichend” (5,0) beziehungsweise „nicht
+
+bestanden“ bewertet, wenn die zu prüfende Person zu dem Prüfungstermin ohne wichtigen
+Grund nicht erscheint oder nach Beginn des Prüfungsrechtsverhältnisses ohne wichtigen Grund
+von der Prüfung zurücktritt. Soweit für eine selbstständig und ohne Aufsicht zu erstellende
+
+Prüfungsleistung ein Abgabetermin festgelegt ist und keine Fristverlängerung gewährt wurde,
+gilt die Prüfungsleistung als mit der Note “nicht ausreichend” (5,0) beziehungsweise „nicht
+
+bestanden“ bewertet, wenn die Prüfungsleistung ohne wichtigen Grund nicht bis zum
+Abgabetermin erbracht ist. Maßgeblich für die fristgerechte Abgabe bei Postversand ist das
+Datum des Poststempels. Werden festgesetzte Fristen zur Anmeldung von Themen für eine
+
+selbstständig und ohne Aufsicht zu erstellende Prüfungsleistung ohne wichtigen Grund nicht
+eingehalten, gilt die damit nicht fristgerecht angemeldete Prüfungsleistung ebenfalls mit der
+                                                                            5
+Note „nicht ausreichend“ (5,0) beziehungsweise „nicht bestanden“ bewertet. Die vorstehenden
+Regelungen gelten auch für Prüfungsteile. Diese gelten in den vorstehend genannten Fällen
+als mit 0 Punkten bewertet.
+
+
+(2) Der für das Versäumnis oder den Rücktritt geltend gemachte wichtige Grund muss der
+                                                                                          2
+Studienakademie unverzüglich schriftlich angezeigt und glaubhaft gemacht werden.           Die
+Glaubhaftmachung erfolgt durch Vorlage des von der Hochschule dafür vorgesehenen
+Formulars; besteht der wichtige Grund in einer Erkrankung, hat die Glaubhaftmachung durch
+                                              3
+Vorlage eines ärztlichen Attests zu erfolgen. In Zweifelsfällen kann die Studienakademie die
+Vorlage eines Attestes einer von ihr benannten Ärztin oder eines von ihr benannten Arztes
+
+verlangen.
+
+(3) Hat sich die oder der Studierende in Kenntnis oder grob fahrlässiger Unkenntnis eines
+
+wichtigen Grundes im Sinne des Absatzes 1 der Prüfung unterzogen, kann der Rücktritt wegen
+dieses Grundes nicht genehmigt werden. Die Geltendmachung eines Rücktrittsgrundes ist
+ausgeschlossen, sobald das Prüfungsergebnis bekannt gegeben worden ist oder aber wenn
+
+seit Abschluss der Prüfung ein Monat verstrichen ist.
+
+    1
+(4) Wird im Falle des Rücktritts aus wichtigem Grund der Grund anerkannt, wird ein neuer
+Termin anberaumt.     2Bei Modulprüfungen, die aus mehreren Prüfungsleistungen oder
+Prüfungsteilen bestehen, werden Prüfungsergebnisse anderer Prüfungsteile, die bis zum
+
+anerkannten Rücktritt beziehungsweise einem anerkannten Versäumnis einer Prüfungsleistung
+dieses Moduls erbracht worden sind, anerkannt.
+
+
+(5) Versucht jemand das Ergebnis einer Prüfungsleistung durch Täuschung oder Benutzung
+nicht zugelassener Hilfsmittel oder unzulässiger Methoden zu beeinflussen, so gilt die
+
+betreffende benotete Prüfungsleistung       als mit   der   Note „nicht   ausreichend"    (5,0)
+
+                                                                                        10 / 51
+beziehungsweise die betreffende unbenotete Prüfungsleistung mit „nicht bestanden“ bewertet.
+2
+ Als Versuch gilt bei Prüfungen bereits das Mitsichführen unzulässiger Hilfsmittel während und
+nach Ausgabe der Prüfungsaufgaben. Wer den ordnungsgemäßen Ablauf einer Prüfung stört,
+
+kann von der jeweiligen Prüferin oder von dem jeweiligen Prüfer oder Aufsichtsführenden von
+der Fortsetzung der Prüfungsleistung ausgeschlossen werden.         4In diesem Fall gilt die
+betreffende   Prüfungsleistung ebenfalls    als mit der Note „nicht ausreichend“ (5,0)
+
+beziehungsweise die betreffende unbenotete Prüfungsleistung mit „nicht bestanden“ bewertet.
+5Bei schweren Verstößen kann die Studienakademie festlegen, dass die Bewertung der
+Wiederholungsprüfung auf die Noten „ausreichend“ (4,0) oder „nicht ausreichend“ (5,0)
+
+beschränkt ist.
+
+
+(6) Als Täuschung gilt auch die wortgleiche Übernahme von Inhalten aus dem Internet oder
+anderen Arbeiten oder Veröffentlichungen ohne Angabe der Quelle und Kennzeichnung als
+Zitat (Plagiat).
+
+
+(7) In besonders schweren oder wiederholten Fällen der Absätze 5 und 6 kann die
+
+Studienakademie die Studierenden von der Erbringung aller weiteren Studien- und
+Prüfungsleistungen in diesem Studiengang der DHBW ausschließen.
+
+     1
+(8)  Belastende Entscheidungen sind der von der Entscheidung betroffenen Person
+unverzüglich in schriftlicher Form oder durch elektronische Kommunikation mitzuteilen, zu
+begründen und mit einer Rechtsbehelfsbelehrung zu versehen; § 4 der Immatrikulationssatzung
+
+der Dualen Hochschule Baden-Württemberg für Bachelorstudiengänge in ihrer jeweils gültigen
+Fassung findet Anwendung. Der betroffenen Person ist die Gelegenheit zu rechtlichem Gehör
+
+zu geben.
+
+
+
+§ 12 Verlängerung der Bearbeitungszeit
+
+1Soweit für eine selbstständig und ohne Aufsicht zu erstellende Prüfungsleistung ein
+
+Abgabetermin festgelegt ist, kann die Bearbeitungszeit auf schriftlichen Antrag der zu
+prüfenden Person bei der Studienakademie angemessen verlängert werden, soweit die
+
+Verhinderung zur fristgerechten Abgabe auf wichtigen Gründen im Sinne von § 11 Absatz 1
+beruht, die die zu prüfende Person nicht zu vertreten hat und gemäß § 11 Absatz 2 glaubhaft
+macht. Der Antrag ist unverzüglich nach Kenntnis des die fristgerechte Abgabe hindernden
+                                                                            3
+Grundes, in jedem Fall aber vor Ablauf der Bearbeitungszeit, zu stellen. Dem Antrag auf
+Verlängerung der Bearbeitungsfrist von Prüfungsleistungen der Praxisprojekte ist zudem eine
+                                                4
+Stellungnahme vom Dualen Partner beizufügen. Im Falle von Krankheit ist die Stellungnahme
+des Dualen Partners entbehrlich.
+
+
+
+§ 13 Nachholung von Prüfungsleistungen
+
+    1
+(1) Ist die zu prüfende Person aus wichtigem Grund verhindert, an einer Prüfungsleistung
+teilzunehmen, setzt die Studienakademie spätestens für das darauffolgende Semester eine
+                                        2
+Nachholung der Prüfungsleistung fest. Termine für die Nachholung von Prüfungsleistungen
+sind in der Regel zwei Wochen vorher mitzuteilen. § 14 bleibt unberührt.
+
+                                                                                       11 / 51
+(2) Ist die zu prüfende Person im Falle der Kombinierten Prüfung aus wichtigem Grund daran
+gehindert, an einzelnen Prüfungsteilen teilzunehmen, werden die nicht absolvierten
+
+Prüfungsteile entsprechend § 13 Absatz 1 nachgeholt.
+
+   1
+(3) Ist die zu prüfende Person im Falle der Kombinierten Prüfung aus wichtigem Grund daran
+gehindert, an allen Prüfungsteilen teilzunehmen, ist die Kombinierte Prüfung als Ganzes nach
+folgenden Maßgaben nachzuholen. Die Kombinierte Prüfung wird mit derselben Anzahl an
+                            3
+Prüfungsteilen nachgeholt Die Prüfungsformen und Gewichtung können aus sachlichem
+Grund von der ursprünglichen Prüfungsgestaltung abweichen. Ein sachlicher Grund liegt vor,
+
+wenn die Wiederholbarkeit der ursprünglichen Prüfungsgestaltung nicht oder nur mit
+unverhältnismäßigem Aufwand umsetzbar ist.
+
+
+
+§ 14 Schutzfristen; Nachteilsausgleich
+
+
+(1) Die Studienakademie kann Studierenden in besonderen Lebenslagen, insbesondere im
+Mutterschutz, mit Kindern, mit pflegebedürftigen Angehörigen sowie mit Behinderungen oder
+
+chronischen Krankheiten, im Einzelfall angemessene Maßnahmen zum Ausgleich von
+Beeinträchtigungen gewähren.
+
+
+(2) Die zu prüfende Person kann verlangen, dass für sie geltende Rechte zum Schutz von
+Familie und Angehörigen beachtet und entsprechend ihres Schutzzwecks angewandt werden.
+2
+ Schutzgesetze im Sinne des Satzes 1 sind insbesondere das Gesetz zum Schutz von Müttern
+bei der Arbeit, in der Ausbildung und im Studium (MuSchG), das Gesetz zum Elterngeld und
+
+zur Elternzeit (BEEG) sowie das Pflegezeitgesetz (PflegeZG).
+
+(3) Für die Inanspruchnahme von Schutzrechten bedarf es eines Antrags der zu prüfenden
+        2
+Person. Der Antrag ist vor dem Termin oder Zeitraum der Bearbeitung der betroffenen Prüfung
+bei der Studienakademie einzureichen; die zugrunde liegenden Tatsachen sind in geeigneter
+                              3
+Weise glaubhaft zu machen. Dem Antrag ist stattzugeben, wenn die Tatsachen glaubhaft
+gemacht wurden und die Voraussetzungen der Schutzvorschrift gegeben sind. In diesem Falle
+ist die zu prüfende Person berechtigt, die von dem jeweiligen Schutz umfassten
+
+Prüfungsleistungen oder Prüfungsteile nach Ablauf der hierfür vorgesehenen Termine oder
+Zeiträume abzulegen. Die zu prüfende Person hat Änderungen bei den Tatsachen, die sich
+auf die Anwendung und Beurteilung der Schutzvorschrift im konkret entschiedenen Fall
+
+auswirken können, unverzüglich nach Kenntnis der Studienakademie mitzuteilen.
+
+   1
+(4) Ist die zu prüfende Person aufgrund einer Behinderung, einer chronischen Erkrankung oder
+einer andauernden Erkrankung nicht in der Lage, eine Prüfung ganz oder teilweise in der
+vorgegebenen Form oder zum festgelegten Termin oder Zeitraum abzulegen, kann sie
+
+verlangen, dass dadurch bestehende nachteilige Beeinträchtigungen in der Prüfung
+angemessen ausgeglichen werden (Nachteilsausgleich). Als Ausgleichsmaßnahmen können
+
+insbesondere die Bearbeitungszeit verlängert, Ruhepausen ohne Anrechnung auf die
+Bearbeitungszeit gewährt, persönliche oder sachliche Hilfsmittel zugelassen oder die
+Erbringung einer gleichwertigen Prüfung in einer anderen geeigneten Form zugelassen werden.
+
+
+
+                                                                                       12 / 51
+   1
+(5) Zur Geltendmachung eines Nachteilsausgleichs nach Absatz 4 bedarf es eines schriftlichen
+Antrags der zu prüfenden Person. Der Antrag ist spätestens einen Monat nach Beginn des
+jeweiligen Prüfungsrechtsverhältnisses bei der Studienakademie einzureichen. In dem Antrag
+
+sind die Tatsachen, die der Beeinträchtigung zugrunde liegen, durch Vorlage eines
+fachärztlichen Attestes glaubhaft zu machen. Das Attest muss die für die Beeinträchtigung
+
+zugrunde liegenden Befundtatsachen sowie eine fachärztliche Einschätzung enthalten, dass
+und in welchem Umfang eine Beeinträchtigung zur Ableistung der Prüfung in der vorgesehenen
+Form oder innerhalb des vorgesehenen Zeitraums vorliegt.           In Zweifelsfällen kann die
+
+Studienakademie die Vorlage eines Attestes einer von ihr benannten Ärztin oder eines von ihr
+benannten Arztes verlangen. Die Entscheidung, ob und welcher Nachteilsausgleich gewährt
+
+wird, obliegt der Studienakademie.
+
+(6) Ist die zu prüfende Person aufgrund einer besonderen Lebenslage nicht in der Lage, eine
+
+Prüfung ganz oder teilweise in der vorgegebenen Form oder zum festgelegten Termin oder
+Zeitraum    abzulegen,   kann    sie   verlangen,   dass   dadurch    bestehende     nachteilige
+                                                                         2
+Beeinträchtigungen in der Prüfung angemessen ausgeglichen werden. Zur Geltendmachung
+eines Nachteilsausgleichs bedarf es eines schriftlichen Antrags der zu prüfenden Person. Der
+Antrag ist spätestens einen Monat nach Beginn des jeweiligen Prüfungsrechtsverhältnisses bei
+                                    4
+der Studienakademie einzureichen. In dem Antrag sind die besonderen Tatsachen darzulegen
+und durch geeignete Nachweise glaubhaft zu machen. Die Entscheidung, ob und welcher
+
+Nachteilsausgleich gewährt wird, obliegt der Studienakademie.
+
+
+
+§ 15 Prüfung von Theoriemodulen
+
+
+(1) Schriftliche Prüfungsaufgaben werden von den die jeweilige Lehrveranstaltung
+durchführenden Mitgliedern des Lehrkörpers gestellt und bewertet.
+
+    1
+(2) Für die Durchführung von mündlichen Prüfungen werden Prüfungsausschüsse gebildet.
+2Diese bestehen aus den die jeweilige Lehrveranstaltung durchführenden Mitgliedern des
+
+Lehrkörpers (Vorsitz) und mindestens einem weiteren von der Studienakademie bestimmten
+Mitglied des Lehrkörpers.
+
+
+(3) Bei Verhinderung einer Prüferin oder eines Prüfers nach den Absätzen 1 oder 2 beauftragt
+die Studienakademie ein anderes sachkundiges Mitglied des Lehrkörpers, sofern die
+Mindestanzahl nach Absatz 2 unterschritten ist.
+
+
+(4) Über den Ablauf der mündlichen Prüfung ist eine Niederschrift zu fertigen, in der die Namen
+
+der Prüferinnen und Prüfer, der Name der geprüften Person, die wesentlichen Gegenstände,
+die Bewertung der Beantwortung der Prüfungsfragen und das Ergebnis festgehalten werden.
+2Die Niederschrift ist von den Prüferinnen und Prüfern zu unterzeichnen.
+
+
+(5) Mündliche Prüfungen sind nicht öffentlich. Die Prüferinnen und Prüfer können Zuhörende
+
+zulassen, wenn ein sachlich begründetes Interesse vorliegt und die zu prüfende Person nicht
+widerspricht. Bei der Beratung und Mitteilung des Prüfungsergebnisses ist die Anwesenheit
+von Zuhörenden nicht zulässig; dies gilt nicht für Beauftragte des Evaluationsverfahrens nach
+
+§ 5 LHG.
+
+                                                                                         13 / 51
+(6) Alle Prüferinnen und Prüfer und Mitglieder des Prüfungsausschusses unterliegen der
+                        2
+Amtsverschwiegenheit. Sofern sie nicht in einem öffentlichen Dienstverhältnis stehen, sind sie
+durch die Vorsitzende oder den Vorsitzenden des Prüfungsausschusses zur Verschwiegenheit
+                3
+zu verpflichten. Dies gilt auch für zugelassene Zuhörende in mündlichen Prüfungen.
+
+   1                                                                          2
+(7) Der Prüfungsausschuss stellt das Ergebnis der mündlichen Prüfung fest. Es wird gebildet
+aus der umfassenden Wertung und Gewichtung der Einzelleistungen unter Berücksichtigung
+des Gesamteindrucks. Weichen die Ansichten der Prüferinnen und Prüfer voneinander ab,
+
+entscheidet der Prüfungsausschuss mit Stimmenmehrheit; bei Stimmengleichheit gibt die
+Stimme der oder des Vorsitzenden den Ausschlag.
+
+
+(8) Das Ergebnis der mündlichen Prüfung ist nach Feststellung durch den Prüfungsausschuss
+
+der geprüften Person mitzuteilen.
+
+
+
+§ 16 Prüfung von Praxisprojekte
+
+    1                                                                                    2
+(1) Die Studienakademie bildet für jeden Studiengang einen Prüfungsausschuss.            Jeder
+Prüfungsausschuss besteht aus mindestens zwei Mitgliedern. Die Mitglieder müssen fachlich
+
+qualifiziert sein und über eine langjährige einschlägige berufspraktische Erfahrung verfügen.
+4Den Vorsitz führt eine Hochschullehrerin oder ein Hochschullehrer der Studienakademie. Für5
+den Fall ihrer oder seiner Verhinderung ist eine Stellvertreterin oder ein Stellvertreter zu
+           6
+berufen.    Neben     den    hauptberuflichen   Mitgliedern   des    Lehrkörpers    muss     im
+Prüfungsausschuss mindestens eine Vertreterin oder ein Vertreter der beruflichen Praxis
+                 7
+vertreten sein.   Der Prüfungsausschuss beschließt mit der Mehrheit der abgegebenen
+Stimmen. Bei Stimmengleichheit gibt die Stimme der oder des Vorsitzenden den Ausschlag.
+
+
+(2) Die Studienakademie benennt für die Betreuung der Projektarbeit eine wissenschaftlich
+qualifizierte Prüferin oder einen wissenschaftlich qualifizierten Prüfer. ²Diese oder dieser muss
+
+ein fachlich und wissenschaftlich ausgewiesener Vertreter der Praxis, eine Professorin oder ein
+Professor oder akademische Mitarbeiterin oder akademischer Mitarbeiter einer Hochschule
+
+sein. ³Die Betreuerin oder der Betreuer schlägt dem Prüfungsausschuss eine Bewertung für die
+Projektarbeit vor und begründet diese in einem Gutachten. Der Prüfungsausschuss bewertet
+
+die Projektarbeit unter Berücksichtigung von Gutachten und Bewertungsvorschlag der
+Betreuerin oder des Betreuers. Eine vom Vorschlag der Betreuerin oder des Betreuers
+abweichende Bewertung ist zu begründen.
+
+
+(3) Mündliche Prüfungen in den Praxisprojekten werden von mindestens zwei Mitgliedern des
+
+Prüfungsausschusses durchgeführt, wobei mindestens ein Mitglied des Lehrkörpers und eine
+fachlich qualifizierte Prüferin oder ein fachlich qualifizierter Prüfer aus der Praxis vertreten sein
+          2                                                   3
+müssen. Den Vorsitz führt ein Mitglied des Lehrkörpers. Im Fall der Verhinderung einer
+Prüferin oder eines Prüfers ist eine Stellvertretung zu berufen, sofern die Mindestanzahl
+unterschritten wird.
+
+
+(4) Die mündliche Prüfung bezieht sich überwiegend auf die praxisbezogenen Studieninhalte
+                                                        2
+sowie die zu Grunde liegenden theoretischen Konzepte. Die mündliche Prüfung soll neben den
+
+                                                                                         14 / 51
+fachlichen Qualifikationen auch überfachliche Qualifikationen (u.a. Methodenkompetenzen)
+              3
+einbeziehen.   Prüfungsfragen, die sich auf geheim zu haltende Inhalte beziehen, sind
+unzulässig.
+
+
+(5) § 15 Absätze 4 bis 8 gelten entsprechend.
+
+(6) Die Prüfungsleistungen können in einer Fremdsprache erbracht werden. Die Sprache ist
+
+zu Beginn des Moduls durch die Studienakademie nach Rücksprache mit der Studierenden
+oder dem Studierenden sowie der Betreuerin oder dem Betreuer des Dualen Partners
+
+festzulegen.
+
+
+
+§ 17 Wiederholung von Prüfungsleistungen
+
+(1) Bestandene Studien- und Prüfungsleistungen können nicht wiederholt werden.
+
+
+(2) Wurde eine benotete Prüfungsleistung nicht mindestens mit der Note „ausreichend“ (4,0)
+bewertet, kann sie innerhalb von in der Regel vier bis zwölf Wochen nach Mitteilung des
+
+Prüfungsergebnisses einmal wiederholt werden, sofern in dieser Satzung nicht anderes
+geregelt  ist.  2Die  Regelung    des   §   5   Absatz   5  findet  Anwendung.     3Benotete
+
+Konstruktionsentwürfe, Programmentwürfe, Studienarbeiten, Hausarbeiten, Referate und
+Laborarbeiten sind mit neuem Thema beziehungsweise neuer Aufgabenstellung innerhalb von
+in der Regel vier bis zwölf Wochen nach Mitteilung des Prüfungsergebnisses zu wiederholen.
+4
+ Benotete Projektarbeiten sowie Berichte zum Ablauf und zur Reflexion der Praxisphase (ARB)
+sind innerhalb von in der Regel vier Wochen nach Mitteilung des Prüfungsergebnisses zu
+überarbeiten. § 16 Absatz 2 gilt entsprechend. Mündliche Prüfungen eines Praxisprojektes
+
+werden innerhalb von in der Regel vier Wochen nach Mitteilung des Prüfungsergebnisses
+wiederholt. § 16 Absätze 3, 4 und 5 gelten entsprechend.
+
+   1
+(3) Wurde eine unbenotete Prüfungsleistung mit „nicht bestanden“ bewertet, kann sie innerhalb
+von in der Regel vier bis zwölf Wochen nach Mitteilung des Prüfungsergebnisses einmal
+                                                                                2
+wiederholt werden, sofern in dieser Satzung nicht anderes geregelt ist.          Unbenotete
+Konstruktionsentwürfe, Programmentwürfe, Studienarbeiten, Hausarbeiten, Referate und
+Laborarbeiten sind mit neuem Thema beziehungsweise neuer Aufgabenstellung innerhalb von
+
+in der Regel vier bis zwölf Wochen nach Mitteilung des Prüfungsergebnisses zu wiederholen.
+3Bei unbenoteten Projektarbeiten und Berichten zum Ablauf und zur Reflexion der Praxisphase
+(ARB) erfolgt die einmalige Wiederholung bei Nichtbestehen innerhalb von in der Regel vier
+
+Wochen nach Mitteilung des Prüfungsergebnisses in Form einer Überarbeitung.
+
+(4) 1Wurde die Kombinierte Prüfung als benotete Prüfungsleistung erbracht und nicht
+
+mindestens mit der Note „ausreichend“ (4,0) bewertet, kann sie einmal nach den folgenden
+Maßgaben wiederholt werden.      2Die Kombinierte Prüfung wird mit derselben Anzahl an
+                           3
+Prüfungsteilen wiederholt. Die Prüfungsformen und die Gewichtung können aus sachlichem
+Grund von der ursprünglichen Prüfungsgestaltung abweichen. Ein sachlicher Grund liegt vor,
+wenn    die  Wiederholbarkeit   ursprünglichen   Prüfungsgestaltung   nicht  oder   nur   mit
+
+unverhältnismäßigem Aufwand umsetzbar ist.
+
+
+                                                                                       15 / 51
+(5) Wurde die Kombinierte Prüfung als unbenotete Prüfungsleistung erbracht und mit „nicht
+bestanden“ bewertet, kann sie einmal nach den Maßgaben des § 17 Absatz 3 wiederholt
+werden.
+
+
+(6) Wurde eine Prüfungsleistung auch in der Wiederholung nicht bestanden, so kann diese in
+
+der Regel innerhalb von zwei bis sechs Wochen nach Mitteilung des Prüfungsergebnisses ein
+zweites Mal wiederholt werden. Die Termine für die Erbringung von Prüfungsleistungen sind
+in der Regel mindestens zwei Wochen vorher mitzuteilen, sofern in dieser Satzung nichts
+                      3
+anderes bestimmt ist. Die zweite Wiederholung wird als mündliche Prüfung durchgeführt und
+entscheidet nur noch über die Note „ausreichend“ (4,0) oder „nicht ausreichend“ (5,0)
+
+beziehungsweise über die Bewertung „bestanden“ oder „nicht bestanden“.
+
+(7) Eine zweite Wiederholungsprüfung nach Absatz 6 ist pro Studienjahr in dem betreffenden
+                                           2
+Studiengang nur jeweils einmal möglich. Bei Modulen, die sich über mehrere Studienjahre
+erstrecken, ist die Prüfungsleistung in dem Studienjahr wiederholt nicht bestanden, in dem das
+
+Modul zuletzt stattgefunden hat.
+
+(8) Die zweite Wiederholungsprüfung nach Absatz 6 führt eine Studiengangsleitung des
+
+jeweiligen Studiengangs mit mindestens einem von der Studienakademie bestimmten fachlich
+zuständigen Mitglied des Lehrkörpers durch. Den Vorsitz hat die Studiengangsleitung. Die  3
+                                                               4
+Prüferinnen und Prüfer legen die Bewertung gemeinsam fest. Weichen die Bewertungen der
+Prüferinnen und Prüfer voneinander ab, entscheidet die Leitung der Studienakademie oder ein
+von ihr beauftragtes Mitglied des Lehrkörpers. Über den Ablauf der mündlichen Prüfung ist
+
+eine Niederschrift zu fertigen; § 15 Absatz 4 gilt entsprechend.
+
+
+(9) Die zweite Wiederholungsmöglichkeit gemäß Absatz 6 entfällt bei den Prüfungsleistungen
+der Praxisprojekte (Projektarbeiten und mündliche Prüfungen der Praxisprojekte) und bei
+Studienarbeiten.
+
+
+(10) Bei Verhinderung einer Prüferin oder eines Prüfers nach Absatz 8 beauftragt die Leitung
+
+der Studienakademie oder ein von ihr beauftragtes Mitglied des Lehrkörpers ein anderes
+sachkundiges Mitglied des Lehrkörpers, sofern die Mindestanzahl unterschritten wird.
+
+
+(11) § 15 Absätze 5, 6 und 8 gelten entsprechend.
+
+(12) Haben Studierende eine nach dieser Satzung vorgesehene Prüfungsleistung endgültig
+
+nicht bestanden, so geht der Prüfungsanspruch gemäß § 32 Absatz 5 Satz 3 LHG verloren.
+²Eine Exmatrikulation hat nach § 62 Absatz 2 Nummer 3 LHG in Verbindung mit § 62 Absatz 4
+
+LHG von Amts wegen zu erfolgen.
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                        16 / 51
+3. ABSCHNITT – Bachelorarbeit
+
+
+
+
+§ 18 Zweck und organisatorischer Ablauf
+
+(1) Die Bachelorarbeit ist eine eigenständige Prüfungsleistung. Sie soll zeigen, dass die
+
+Studierenden in der Lage sind, innerhalb einer vorgegebenen Frist eine praxisbezogene
+Problemstellung selbstständig unter Anwendung praxisbezogener sowie wissenschaftlicher
+Erkenntnisse und Methoden zu bearbeiten.
+
+
+(2) Das Thema der Bachelorarbeit wird auf Vorschlag des Dualen Partners, vertreten durch die
+
+für die Ausbildung verantwortliche Person nach § 65 c Absatz 3 LHG, im Benehmen mit der
+oder dem Studierenden vergeben und von der Studienakademie genehmigt.
+
+      1                                                                                   2
+(3)   Die   Bearbeitungszeit    für  die   Bachelorarbeit   beträgt   zwölf   Wochen.      Der
+Bearbeitungsumfang      beträgt   12   ECTS-Leistungspunkte.      Beginn    und    Ende    der
+
+Bearbeitungszeit werden von der Studienakademie festgelegt.
+
+
+
+§ 19 Betreuung und Bewertung
+
+(1) Vom Dualen Partner wird eine fachlich und wissenschaftlich qualifizierte Betreuerin oder
+
+ein fachlich und wissenschaftlich qualifizierter Betreuer mit mehrjähriger berufspraktischer
+Erfahrung benannt, die oder der die Durchführung der Bachelorarbeit beim Dualen Partner
+                                                                           2
+verantwortlich als erste Prüferin oder erster Prüfer betreut und bewertet. § 15 Absatz 6 gilt
+entsprechend.
+
+    1
+(2) Die Leitung der Studienakademie oder ein von ihr beauftragtes Mitglied des Lehrkörpers
+benennt eine fachlich und wissenschaftlich qualifizierte zweite Betreuerin oder einen fachlich
+und wissenschaftlich qualifizierten zweiten Betreuer, die oder der die Bachelorarbeit als zweite
+                                                         2
+Prüferin oder als zweiter Prüfer betreut und bewertet. Sie oder er muss ein Mitglied des
+Lehrkörpers sein oder die Voraussetzungen des § 56 Absatz 2 Satz 1 LHG erfüllen. § 15    3
+
+Absatz 6 gilt entsprechend.
+
+(3) Die Bachelorarbeit wird von den benannten Prüferinnen und Prüfern bewertet. Besteht
+
+zwischen den beiden Bewertungen ein Unterschied bis zu einem ganzen Notenwert, so wird
+die Note als arithmetisches Mittel festgesetzt. Dabei wird nur die erste Dezimalstelle ohne
+                         4
+Rundung berücksichtigt. Bei einem Unterschied von mehr als einem ganzen Notenwert wird
+vom Prüfungsausschuss eine dritte Prüferin oder ein dritter Prüfer bestellt, die oder der die Note
+festsetzt. Dabei gelten die von der ersten Prüferin oder dem ersten Prüfer und der zweiten
+
+Prüferin oder dem zweiten Prüfer erteilten Notenwerte als Grenzwerte.
+
+
+§ 20 Bestehen und Wiederholung
+
+
+(1) Die Bachelorarbeit ist bestanden, wenn sie mit mindestens der Note „ausreichend“ (4,0)
+
+bewertet wurde.
+
+                                                                                        17 / 51
+   1
+(2) Wurde die Bachelorarbeit schlechter als mit der Note „ausreichend" (4,0) bewertet, so kann
+sie einmal wiederholt werden.     2Das neue Thema wird spätestens drei Monate nach
+                                                         3
+Bekanntgabe    des   Prüfungsergebnisses    vergeben.    Eine   zweite   Wiederholung    der
+Bachelorarbeit ist ausgeschlossen.
+
+   1
+(3) Für die Wiederholung ist keine vom Dualen Partner benannte Betreuerin oder benannter
+Betreuer nach § 19 Absatz 1 erforderlich. Stattdessen kann eine weitere Betreuerin oder ein
+weiterer Betreuer nach § 19 Absatz 2 benannt werden.
+
+
+
+
+
+4. ABSCHNITT - Bachelor-Abschluss
+
+
+
+§ 21 Studienabschluss und Bachelor-Gesamtnote
+
+
+(1) Das Studium ist erfolgreich abgeschlossen, wenn alle Modulprüfungen und die
+Bachelorarbeit bestanden sind.
+
+
+(2) In die Berechnung der Bachelorgesamtnote gehen die Note der Bachelorarbeit mit 20 %
+und das arithmetische Mittel der Modulnoten mit einer Dezimalstelle ohne Rundung zu 80 %
+    2
+ein. Dabei sind die Noten für die einzelnen relevanten Module mit den ECTS-Leistungspunkten
+des Moduls zu gewichten. Gewichtungsfaktor ist das Verhältnis der ECTS-Leistungspunkte
+
+des jeweiligen Moduls zur Summe der ECTS-Leistungspunkte aller in diese Berechnung
+eingehenden Module. § 10 Absatz 1 gilt entsprechend. Nicht in die Berechnung der Bachelor-
+Gesamtnoten gehen die Noten ein, die durch eine Äquivalenzprüfung erzielt wurden.
+
+
+(3) Zusätzlich zur Bachelorgesamtnote nach Absatz 2 wird für die Absolventinnen und
+Absolventen eines jeden Bachelorstudiengangs an der DHBW, nach Festlegung durch die
+
+Fachkommission gegebenenfalls auf Ebene der Studienrichtungen, standortspezifisch eine
+„ECTS-Einstufungstabelle“ erstellt. Diese wird dem Transcript of Records beigefügt. Die 3
+
+„ECTS-Einstufungstabelle“ stellt eine Verteilung der innerhalb einer bestimmten Kohorte
+erzielten Gesamtnoten dar. Dabei besteht die Kohorte aus den Gesamtnoten sämtlicher
+Absolventinnen und Absolventen des Studiengangs beziehungsweise der Studienrichtung
+                                                                         5
+innerhalb eines Referenzzeitraumes von in der Regel drei Studienjahren. Die Kohorte muss
+mindestens 50 Absolventinnen und Absolventen umfassen.             6Wird ein Studiengang
+
+beziehungsweise eine Studienrichtung neu eingerichtet, wird abweichend von Satz 4 eine
+„ECTS-Einstufungstabelle“ erstmals erstellt, sobald die Kohorte mindestens 50 Absolventinnen
+und Absolventen umfasst. Bei Studiengängen, die nach Satz 4 keine Kohorte von mindestens
+
+50   Absolventinnen   und   Absolventen   umfassen,   gilt abweichend    von   Satz   4  ein
+Referenzzeitraum    von  fünf  Jahren.   Ergänzend    wird  ein   ECTS-Klassifizierungsgrad
+zugeordnet. Dabei werden dieser Klassifizierung folgende konkreten Notenwerte zu Grunde
+
+gelegt:
+
+
+
+
+
+                                                                                      18 / 51
+       A            1,0 – 1,5
+
+       B            1,6 – 2,0
+       C            2,1 – 2,5
+       D            2,6 – 3,5
+
+       E            3,6 – 4,0
+
+
+
+§ 22 Abschlussdokumente und Hochschulgrad
+
+(1)  Die DHBW erstellt als Abschlussdokumente eine Urkunde, ein Zeugnis, eine
+                                                                        2
+Notenbescheinigung („Transcript of Records“) und ein Diploma Supplement. Auf der Urkunde,
+dem Zeugnis, der Notenbescheinigung und im Diploma Supplement werden jeweils der
+Studiengang und gegebenenfalls die Studienrichtung genannt.
+
+   1
+(2) Die Urkunde wird von der Rektorin oder dem Rektor der Studienakademie, das Zeugnis
+von der Dekanin oder dem Dekan des Studienbereichs und von der zuständigen
+                                  2
+Studiengangsleitung unterzeichnet. Beide Abschlussdokumente werden mit dem Siegel der
+DHBW versehen.
+
+    1
+(3)  In das Zeugnis sind die absolvierten Module mit der Modulnote und der ECTS-
+Leistungspunktezahl, das Thema der Bachelorarbeit und deren Note sowie ECTS-
+Leistungspunktezahl,    die    Gesamtnote      des    Bachelorstudiums,    die    ECTS-
+Gesamtleistungspunktezahl   sowie   die   ECTS-Klassifikation  aufzunehmen.    Freiwillige
+
+Zusatzmodule können aufgenommen werden.
+
+(4) In der Notenbescheinigung („Transcript of Records“) sind die Module mit der jeweiligen
+                                                       2
+Modulnote und ihren Lehrveranstaltungen aufgeführt.    Das Diploma Supplement enthält
+Angaben über Art und Stufe des Abschlusses sowie detaillierte Informationen über das
+Studienprogramm.
+
+
+(5) Aufgrund des erfolgreich abgeschlossenen Studiums im Studienbereich Technik verleiht die
+DHBW den Hochschulgrad „Bachelor of Engineering“ (B.Eng.); abweichend hiervon werden im
+
+Studiengang „Architektur“ der Hochschulgrad „Bachelor of Arts“ (B.A.), im Studiengang
+„Chemische Technik“, im Studiengang „Informatik“, im Studiengang „Sicherheitswesen“ sowie
+im  Studiengang    „Sustainable  Science  and   Technology“   in  den   Studienrichtungen
+
+„Arbeitssicherheit“, „Strahlenschutz“ und „Umweltschutztechnik“ der Hochschulgrad „Bachelor
+of Science“ (B.Sc.) verliehen.
+
+
+
+§ 23 Nichtbestehen der Prüfung und Aberkennung des Hochschulgrades
+
+   1
+(1) Hat die zu prüfende Person bei einer Prüfungsleistung getäuscht und wird diese Tatsache
+erst nach der Aushändigung der Abschlussdokumente bekannt, kann die Studienakademie
+nachträglich die betreffenden Noten entsprechend § 11 Absätze 5 bis 7 ändern und die Prüfung
+                                                2
+ganz oder teilweise als nicht bestanden erklären. Vor einer Entscheidung ist der betroffenen
+Person Gelegenheit zur schriftlichen Äußerung zu geben.
+
+                                                                                   19 / 51
+(2) Die unrichtigen Abschlussdokumente sind einzuziehen und erforderlichenfalls neu zu
+         2
+erteilen. Eine Entscheidung nach Absatz 1 ist nach einer Frist von zwei Jahren ab dem Datum
+des Prüfungszeugnisses ausgeschlossen.
+
+
+(3) Wird das Nichtbestehen der Prüfung nach Absatz 1 festgestellt, sind der verliehene
+Hochschulgrad abzuerkennen und die entsprechenden Abschlussdokumente einzuziehen.
+
+
+
+
+
+5. ABSCHNITT - Schlussbestimmungen
+
+
+
+§ 24 Aufbewahrung von Prüfungsunterlagen, Akteneinsicht
+
+
+1Prüfungsunterlagen werden von der Studienakademie bis zum Ablauf von drei Jahren nach
+Aushändigung der Abschlussdokumente aufbewahrt. Die geprüfte Person kann Einsichtnahme
+                                        3
+in ihre Prüfungsunterlagen beantragen. Der Antrag muss spätestens ein Jahr nach Abschluss
+des Prüfungsverfahrens schriftlich bei der Studienakademie gestellt werden.
+
+
+
+§ 25 Überdenkungsverfahren
+
+
+1Studierende können gegen die Bewertungen einer Prüfungsleistung Einwände erheben. Die    2
+
+Einwände müssen vor Erlass des Notenbescheids innerhalb einer Woche nach Einsicht der
+Prüfungsunterlagen mit einer substantiierten Begründung schriftlich bei der Studienakademie
+                  3
+erhoben werden. Entsprechen die Einwände nicht den Anforderungen, so werden sie von der
+Prüferin oder dem Prüfer zurückgewiesen. Sind die Anforderungen eingehalten, entscheidet
+über die Einwände die Prüferin oder der Prüfer. Eine Entscheidung über die Einwände ist der
+
+oder dem Studierenden in schriftlicher Form oder durch elektronische Kommunikation innerhalb
+von sechs Wochen mitzuteilen; § 4 der Immatrikulationssatzung der Dualen Hochschule Baden-
+
+Württemberg für Bachelorstudiengänge in ihrer jeweils gültigen Fassung findet Anwendung.
+6Sie soll vor dem Termin der weiteren Prüfungen getroffen werden.
+
+
+
+§ 26 Mängel im Prüfungsverfahren
+
+
+(1) Erweist sich, dass das Prüfungsverfahren mit Mängeln behaftet war, die die
+Chancengleichheit erheblich verletzt haben, kann die Studienakademie auf Antrag einer
+
+geprüften Person oder von Amts wegen anordnen, dass von einer bestimmten geprüften
+Person oder von allen geprüften Personen die Prüfung oder einzelne Teile derselben zu
+
+wiederholen sind.
+
+    1
+(2) Ein Antrag nach Absatz 1 ist unverzüglich schriftlich bei der Studienakademie zu stellen.
+2Er darf keine Bedingungen enthalten und kann nicht zurückgenommen werden.                3Die
+Geltendmachung ist ausgeschlossen, sobald das Prüfungsergebnis bekannt gegeben worden
+
+
+
+                                                                                        20 / 51
+ist oder wenn seit dem Abschluss des Teils des Prüfungsverfahrens, das mit dem Mangel
+
+behaftet war, ein Monat verstrichen ist.
+
+
+(3) Sechs Monate nach Abschluss der Prüfung darf die Studienakademie von Amts wegen
+Anordnungen nach Absatz 1 nicht mehr treffen.
+
+
+
+§ 27 Inkrafttreten
+
+   1                                                 2
+(1) Diese Satzung tritt zum 1. Oktober 2023 in Kraft. Sie gilt für Studierende, die zu diesem
+Zeitpunkt im Studienbereich Technik der DHBW immatrikuliert sind oder ab diesem Zeitpunkt
+
+immatrikuliert werden.
+
+(2) Für bereits begonnene Prüfungsrechtsverhältnisse oder begonnene Module gelten die
+
+Regelungen der Satzung in der bei Beginn des Prüfungsrechtsverhältnisses oder Moduls
+geltenden Version.
+
+   1                                                       2
+(3) Die vorhergehenden Versionen zu dieser Satzung sind: Erste Satzung zur Änderung der
+Studien- und Prüfungsordnung für die Bachelor-Studiengänge im Studienbereich Technik der
+
+DHBW vom 19. Dezember 2017 (Amtliche Bekanntmachungen der Dualen Hochschule Baden-
+Württemberg 29/2017 vom 19. Dezember 2017). Zweite Satzung zur Änderung der Studien-
+und Prüfungsordnung für die Bachelor-Studiengänge im Studienbereich Technik der DHBW
+
+vom 25. Juli 2018 (Amtliche Bekanntmachungen der Dualen Hochschule Baden-Württemberg
+21/2018 vom 25. Juli 2018). Dritte Satzung zur Änderung der Studien- und Prüfungsordnung
+
+für die Bachelor-Studiengänge im Studienbereich Technik der DHBW vom 1. August 2019
+(Amtliche Bekanntmachungen der Dualen Hochschule Baden-Württemberg 13/2019 vom 1.
+August 2019). Vierte Satzung zur Änderung der Studien- und Prüfungsordnung für die
+
+Bachelor-Studiengänge im Studienbereich Technik der DHBW vom 27. Juli 2020 (Amtliche
+Bekanntmachungen der Dualen Hochschule Baden-Württemberg 13/2020 vom 27. Juli 2020).
+6Fünfte Satzung zur Änderung der Studien- und Prüfungsordnung für die Bachelor-
+
+Studiengänge im Studienbereich Technik der DHBW vom 14. Juli 2021 (Amtliche
+Bekanntmachungen der Dualen Hochschule Baden-Württemberg 33/2021 vom 14. Juli 2021).
+7
+ Sechste Satzung zur Änderung der Studien- und Prüfungsordnung für die Bachelor-
+Studiengänge im Studienbereich Technik der DHBW vom 14. Juli 2022 (Amtliche
+Bekanntmachungen der Dualen Hochschule Baden-Württemberg 28/2022 vom 14. Juli 2022).
+
+
+
+
+
+
+Stuttgart, den24. Juli 2023
+
+
+
+
+
+
+Prof. Dr. Martina Klärle
+
+Präsidentin
+
+
+                                                                                      21 / 51
+                                                                                    Anlage 1
+                                                                         (zu § 3, § 4 und § 5)
+
+
+             1. Prüfungsformen nach § 5 Absatz 1 im Studienbereich Technik
+
+
+1.1 Erläuterung der Prüfungsleistungen
+1.1.1 Bericht zum Ablauf und zur Reflexion der Praxisphase (ARB)
+1
+ Die Prüfungsleistung „Bericht zum Ablauf und zur Reflexion der Praxisphase“ beinhaltet eine
+Dokumentation des zeitlichen und inhaltlichen Ablaufs der Praxisphasen und eine Reflexion
+des Lern- und Erkenntnisfortschritts des Studierenden in der Praxisphase sowie eine Reflexion
+                                                                                    2
+der Verknüpfung der Inhalte der Theorie- und Praxisphasen aus studentischer Sicht. Der ARB
+ist zum Abschluss jedes Praxisprojektes als unbenotete Prüfungsleistung zu erbringen.
+
+
+1.1.2 Entwurf (E)
+1Ein  Entwurf   umfasst   die   Bearbeitung   einer  fachspezifischen   Aufgabenstellung    in
+konzeptioneller Hinsicht. Die Darstellung und Erläuterung der gefundenen Lösung erfolgt in
+
+einer für die berufliche Tätigkeit üblichen Weise, die vom Prüfenden in Art, Umfang und
+Detaillierung definiert wird.3Die Prüfungsform Entwurf ist ausschließlich im Studiengang
+„Architektur“ zulässig.
+
+
+1.1.3 Hausarbeit (HA)
+In einer Hausarbeit soll eine vorgegebene Problem- oder Aufgabenstellung unter Verwendung
+
+der Vorlesungsunterlagen und/oder anderer wissenschaftlicher Quellen selbstständig erarbeitet
+und in einer schriftlichen Ausarbeitung im vorgegebenen Umfang dokumentiert werden.
+
+
+1.1.4 Klausurarbeit (K)
+1In den Klausurarbeiten sollen die Studierenden nachweisen, dass sie in der vorgegebenen Zeit
+mit den zugelassenen Hilfsmitteln Aufgaben lösen und Themen bearbeiten können.
+2
+ Klausurarbeiten sollen aus Wissens-, Methoden- und Verständnisfragen bestehen und den
+Studierenden Gelegenheit zur kritischen Reflexion geben.        3Die Dauer einer einzelnen
+Klausurarbeit  ergibt  sich   aus   der  jeweiligen  Modulbeschreibung.    4Die   Länge   der
+
+Klausurarbeiten ist abhängig von der Anzahl der ECTS-Leistungspunkte des entsprechenden
+Moduls, sie beträgt in Modulen mit:
+
+
+    -  5 beziehungsweise 6 ECTS-Leistungspunkte          90 - 120 Minuten
+    -  7 beziehungsweise 8 ECTS-Leistungspunkte          120 - 150 Minuten
+
+    -  9 beziehungsweise 10 ECTS-Leistungspunkte         150 - 180 Minuten
+
+1.1.5 Kombinierte Prüfung (KP)
+1
+ Eine Kombinierte Prüfung setzt sich aus mindestens zwei Prüfungsteilen der Prüfungsformen
+Mündliche Prüfung, Konstruktionsentwurf, Programmentwurf, Hausarbeit, Referat, Laborarbeit
+einschließlich Ausarbeitung und Klausur zusammen. Eine gewählte Prüfungsform darf nicht
+                                   3
+mehrfach    eingesetzt   werden.    Jeder   Prüfungsteil   muss    mindestens    20   %   der
+Gesamtprüfungsleistung umfassen und entsprechend gewichtet werden.                4Für jeden
+Prüfungsteil erfolgt eine Punktevergabe. Die Punkte eines einzelnen Prüfungsteils sind erst
+
+bekanntzugeben, wenn die Punkte sämtlicher Prüfungsteile feststehen und die Modulnote
+
+
+                                                                                       22 / 51
+gebildet werden kann. Die Modulnote ergibt sich aus der Punkteverrechnung der einzelnen
+Prüfungsteile. Auf die Prüfungsteile ist die Regelung des § 17 nicht anwendbar.
+
+
+1.1.6 Konstruktionsentwurf (KE)
+1Ein Konstruktionsentwurf umfasst die Bearbeitung einer Aufgabenstellung in konzeptioneller
+                                                                                           2
+und     konstruktiver    planerischer    und/oder     produktionsorientierter    Sicht.    Der
+Konstruktionsentwurf kann auch im Rahmen der Anfertigung eines Schaltungsentwurfs
+eingesetzt werden.
+
+
+1.1.7 Laborarbeit einschließlich Ausarbeitung (LA)
+Eine Laborarbeit umfasst die Durchführung eines Laborversuchs einschließlich einer
+
+ausführlichen, schriftlichen Ausarbeitung von Durchführung und Ergebnissen.
+
+1.1.8 Mündliche Prüfung (MP)
+
+1.1.8.1 Mündliche Prüfung Theoriemodul (MP-T)
+Die mündliche Prüfung dauert circa 30 Minuten je zu prüfender Person.
+
+
+1.1.8.2 Mündliche Prüfung Praxisprojekt (MP-P)
+ Die mündliche Prüfung soll u.a. das Verständnis der oder des Studierenden für die
+Projektarbeit und deren Zusammenhänge mit anderen Sachgebieten prüfen. Sie soll neben
+
+den   fachlichen   Qualifikationen   auch   überfachliche   Qualifikationen   (unter  anderem
+Methodenkompetenzen) einbeziehen.
+
+1.1.9 Programmentwurf (PE)
+
+Ein Programmentwurf umfasst die Bearbeitung einer Aufgabenstellung mit der Auswahl
+geeigneter   Methoden,     der   Formulierung    der   verwendeten     Algorithmen   in   einer
+Programmiersprache, das Testen und Überprüfen der Ergebnisse auf Richtigkeit und die
+
+Programmdokumentation.
+
+1.1.10 Projektarbeit (PA)
+1
+ Die Projektarbeit dokumentiert die konkrete Lösung einer Ingenieuraufgabe (beziehungsweise
+von zwei kleineren Aufgaben) in der Praxisphase. Die Projektarbeit lässt eine eingehende,
+umfassende und selbstständige Bearbeitung erkennen und verknüpft die praktischen
+                                                                        3
+Aufgabenstellungen mit aktueller Fachliteratur aus Theorie und Praxis. Die Projektarbeit ist in
+der Praxisphase zu erstellen.
+
+
+1.1.11 Referat (R)
+Ein Referat ist ein mündlicher Vortrag von selbstständig erarbeiteten Inhalten, der 10 bis 30
+Minuten umfasst.
+
+
+1.1.12 Studienarbeit (S)
+Die Studienarbeit soll die konkrete Lösung einer Ingenieuraufgabe sein und eine eingehende,
+
+umfassende und selbstständige Bearbeitung erkennen lassen und die fachpraktischen
+Probleme unter Berücksichtigung theoretischer Erkenntnisse aufzeigen.
+
+
+
+
+
+                                                                                         23 / 51
+1.1.13 Bachelorarbeit (B)
+1                                                                             2
+ Der Umfang der Bachelorarbeit soll in der Regel 60 bis 80 Seiten betragen. Abweichungen
+bedürfen der Zustimmung der Betreuerinnen und Betreuer; nicht genehmigte Abweichungen
+führen zu einem angemessenen Notenabschlag. Die Bachelorarbeit kann von experimenteller,
+
+theoretischer oder konstruktiver Art sein oder eine beliebige Kombination dieser drei
+Möglichkeiten enthalten.
+
+
+1.1.14 Sonstiges
+1Bachelorarbeiten, Projektarbeiten, Studienarbeiten sowie Hausarbeiten sind jeweils einmal in
+
+gedruckter Ausfertigung und einmal in elektronischer Form (Textdatei und gegebenenfalls
+weiterer digitaler Anlagen) bei der Studienakademie einzureichen.
+
+2
+ Jede dieser Arbeiten hat eine Erklärung, die von der Verfasserin oder vom Verfasser mit
+Angabe von Ort und Datum zu unterscheiben ist, mit folgendem Wortlaut zu enthalten:
+
+
+      „Ich versichere hiermit, dass ich meine Bachelorarbeit (beziehungsweise
+      Projektarbeit oder Studienarbeit beziehungsweise Hausarbeit) mit dem Thema: (…)
+      selbstständig verfasst und keine anderen als die angegebenen Quellen und
+
+      Hilfsmittel benutzt habe. Ich versichere zudem, dass die eingereichte elektronische
+      Fassung mit der gedruckten Fassung übereinstimmt.“
+
+
+3Eine ausschließlich elektronische Abgabe sowie die schriftliche Versicherung nach Satz 2 ist
+möglich, sofern die Studienakademie hierfür ein geeignetes IT-System bereitstellt. Sofern vom
+
+Dualen Partner ein Sperrvermerk gewünscht wird, ist folgende Formulierung zu verwenden:
+„Der Inhalt dieser Arbeit darf weder als Ganzes noch in Auszügen Personen außerhalb des
+Prüfungsprozesses und des Evaluationsverfahrens zugänglich gemacht werden, sofern keine
+                                                              5
+anderslautende Genehmigung vom Dualen Partner vorliegt.“ Das vorgenannte gilt auch für
+Hausarbeiten, die als Prüfungsteil im Rahmen der Kombinierten Prüfung erbracht werden.
+
+
+1.2 Prüfungsleistungen im Antwort-Wahl-Verfahren
+1.2.1 Prüfungen können in Form des Antwort-Wahl-Verfahrens erfolgen (zum Beispiel Multiple-
+         2
+Choice). Bei der Prüfung im Antwort-Wahl-Verfahren haben die zu prüfenden Personen Fragen
+durch die Angabe der für zutreffend befundenen Antwort beziehungsweise Antworten aus
+einem Katalog vorgegebener Antwortmöglichkeiten zu lösen.        3Minuspunkte werden nicht
+
+vergeben.
+
+1.2.2 Werden in einer Prüfung mehr als 30 % der zu erreichenden Punkte im Antwort-Wahl-
+
+Verfahren   vergeben,   so   gelten  für  die  gesamte    Prüfung   die   Bestimmungen     für
+Prüfungsleistungen im Antwort-Wahl-Verfahren.
+
+
+1.2.3 Die Prüfungsfragen und die möglichen Antworten (Prüfungsaufgaben) inklusive der
+Punktevergabe werden von mindestens zwei Prüfern erarbeitet und schriftlich festgelegt.
+
+      1
+1.2.4 Das Prüfungsverfahren ist so gestaltet und umgesetzt, dass für die zu prüfenden
+Personen während der Prüfung die Möglichkeit besteht, die eigenen Antworten zu überarbeiten.
+2
+ Vor der endgültigen Abgabe einer Antwort erhalten die Prüfungsteilnehmer einen Hinweis,
+dass mit der Abgabe eine Überarbeitung der geleisteten Antworten nicht mehr möglich ist.
+
+                                                                                       24 / 51
+      1
+1.2.5 Die Prüfung ist bestanden, wenn die zu prüfende Person 50 % der maximalen Punktzahl
+erreicht hat (absolute Bestehensgrenze) oder wenn die Punktzahl der zu prüfenden Person um
+nicht mehr als 15 % die durchschnittliche Punktzahl der Prüfungsteilnehmer der
+                                                            2
+Referenzgruppe unterschreitet (relative Bestehensgrenze). Die Referenzgruppe bilden die zu
+prüfenden Personen, die an der Prüfung teilnehmen. Die relative Bestehensgrenze ist nur dann
+zu berücksichtigen, wenn sie unterhalb der absoluten Bestehensgrenze liegt.
+
+
+1.2.6 Bei der Feststellung des Ergebnisses ist anzugeben:
+
+    ­  die insgesamt erreichbare Punktzahl und die von der zu prüfenden Personen erreichte
+       Punktzahl,
+    ­  die für das Erreichen der Bestehensgrenze erforderliche Mindestpunktzahl nach
+
+       Nummer 1.2.5.
+
+1.2.7  Ergibt sich nach Durchführung der Prüfung, dass einzelne Prüfungsfragen oder
+
+Antwortmöglichkeiten fehlerhaft sind, gelten die betreffenden Prüfungsaufgaben als nicht
+gestellt; die insgesamt erreichbare Punktzahl vermindert sich entsprechend; bei der
+Feststellung der Prüfergebnisse ist die verminderte Gesamtpunktzahl zugrunde zu legen. Die2
+
+verminderte Aufgabenzahl/Gesamtpunktzahl darf sich nicht zum Nachteil einer zu prüfenden
+Person auswirken.
+
+      1
+1.2.8 Das Antwort-Wahl-Verfahren kann auch in elektronischer (computerunterstützter) Form
+durchgeführt werden. In diesem Fall gilt zusätzlich Nummer 1.3.
+
+
+1.3. Prüfungsleistungen in elektronischer Form
+1.3.1 Die für die Prüfungsdurchführung notwendigen technischen, personellen und räumlichen
+                                                                           2
+Voraussetzungen     müssen     an   der   Studienakademie     vorliegen.   Datenschutz     und
+Datensicherheit sind zu gewährleisten.
+
+      1
+1.3.2 Voraussetzung eines elektronischen (computerunterstützten) Prüfungsverfahrens ist,
+dass die elektronischen Daten eindeutig identifiziert sowie unverwechselbar und dauerhaft den
+                                                                  2
+Prüfungsteilnehmern zugeordnet werden können (Authentizität). Es ist sicherzustellen, dass
+die von der zu prüfenden Person eingegebenen Lösungen zu keinem Zeitpunkt verfälscht
+worden sind und Manipulationsversuche nach dem Stand der Technik ausgeschlossen werden
+
+können (Integrität).
+
+1.3.3  Die Prüfungsdurchführung ist hinsichtlich der Organisation, der räumlichen und
+
+technischen Voraussetzungen sowie der zugelassenen Hilfsmittel so zu gestalten, dass die
+Prüfungsbedingungen für die zu prüfenden Personen vergleichbar sind. Die zu prüfenden
+Personen müssen im Vorfeld der Prüfung die Möglichkeit erhalten, sich mit dem
+
+Prüfungsverfahren vertraut zu machen.
+
+
+1.3.4 Es ist zu gewährleisten, dass ein elektronisches Protokoll sowie bei Klausurarbeiten in
+elektronischer Form oder entsprechenden Prüfungsleistungen ein schriftliches Protokoll über
+besondere Vorkommnisse des Prüfungsverlaufs erstellt werden.
+
+
+
+
+                                                                                        25 / 51
+1.3.5 Es ist sicherzustellen, dass Prüfungsleistungen in elektronischer Form von der Prüferin
+
+oder dem Prüfer beziehungsweise von den Prüferinnen oder den Prüfern eigenhändig
+nachkorrigiert werden können.
+
+
+
+                    2. Erläuterungen zu den Modulen (zu § 3 und § 4)
+
+Kernmodule
+
+sind Pflichtmodule für alle Studierenden eines Studiengangs.
+
+Studienrichtungsmodule
+sind Pflichtmodule für alle Studierenden eines Studiengangs in der jeweiligen Studienrichtung
+
+an allen Standorten.
+
+Wahlmodule
+
+sind weitere Module für alle Studierenden eines Studiengangs beziehungsweise einer
+Studienrichtung, die im definierten Umfang Teil des Curriculums sind. Die tatsächliche
+Wahlfreiheit wird durch die Studienakademie festgelegt.
+
+
+ECTS-Leistungspunkte für studentisches Engagement
+Leistungen im sozialen Bereich innerhalb der Hochschule sowie Engagement im Rahmen der
+Vertretung studentischer Interessen können sein:
+
+
+   ­   Tätigkeit in einem Gremium der Verfassten Studierendenschaft oder einem
+       Hochschulgremium,
+   ­   Betreuung im Rahmen des internationalen Studierendenaustausches,
+
+   ­   Leitung von Tutorien, die auf Beschluss des Studiengangsleiters eingerichtet werden,
+   ­   Mitarbeit in Hochschulprojekten sowie im Studium Generale.
+
+
+1egleitetes Selbststudium
+ Mit insgesamt maximal 150 Stunden umfassenden begleiteten Selbststudium wird den
+Studierenden durch unterschiedliche Angebote wie zum Beispiel Betreuung bei Konstruktions-
+und Programmentwürfen, Laboren, Übungen oder weitere Formen des begleiteten
+                                                                                      2
+Selbststudiums eine bedarfsgerechte und kompetenzorientierte Unterstützung angeboten. Die
+Studiengangsleitung kann entsprechend der didaktischen Möglichkeiten und Bedürfnisse
+geeignete   Formen    des   begleiteten  Selbststudiums    im  Rahmen     des   definierten
+Stundenkontingentes flexibel über die drei Studienjahre festlegen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                    26 / 51
+                                                                               Anlage 2
+                                                                         (zu § 3 und § 4)
+
+
+Übersicht über die Modul- und Prüfungspläne der Studiengänge im Studienbereich
+Technik
+
+
+1. Architektur
+2. Bauingenieurwesen für die Studierenden, die bis zum 30. September 2020 immatrikuliert
+wurden
+
+3. Bauingenieurwesen für die Studierenden, die ab dem 1. Oktober 2020 immatrikuliert
+wurden
+4. Chemische Technik für die Studierenden, die bis zum 30. September 2021
+immatrikuliert wurden
+
+5. Chemische Technik für die Studierenden, die ab dem 1. Oktober 2021 immatrikuliert
+wurden
+6. Elektrotechnik
+7. Embedded Systems
+
+8. Holztechnik
+9. Informatik
+10. Integrated Engineering
+11. Luft- und Raumfahrttechnik
+
+12. Maschinenbau
+13. Mechatronik
+14. Medizintechnik
+
+15. Papiertechnik
+16. Sicherheitswesen
+17. Sustainable Science and Technology für die Studierenden, die bis zum 30. September
+2023 immatrikuliert wurden
+
+18. Sustainable Science and Technology für die Studierenden, die ab dem 1. Oktober
+2023 immatrikuliert wurden
+19. Wirtschaftsingenieurwesen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                  27 / 51
+1. Architektur
+
+
+
+                                     ECTS-             Anzahl            Anzahl
+ Modul                                                benotete         unbenotete
+                                Leistungspunkte      Prüfungsl.         Prüfungsl.
+
+ Kernmodule
+ Gestaltung I Semesterentwürfe I       10                1                  0
+ Darstellung und Raum I                5                 1                  0
+
+ Baustoffkunde, Tragwerkslehre und     5                 1                  0
+ Bauphysik I
+ Architektur-Designgeschichte I        5                 1                  0
+ Gestaltung II Semesterentwürfe II     10                1                  0
+
+ Darstellung und Raum II               5                 1                  0
+ Gebäudelehre I                        5                 1                  0
+ Architektur-Designgeschichte II       5                 1                  0
+
+ Konstruktion Holzbau I                10                1                  0
+ Semesterentwürfe III
+ Baustoffkunde, Tragwerkslehre und
+                                       5                 1                  0
+ Bauphysik II
+ Städtebau I                           5                 1                  0
+ Digitale Werkstatt I                  5                 1                  0
+
+ Konstruktion Holzbau II               10
+ Semesterentwürfe IV                                     1                  0
+ Gebäudelehre II                       5                 1                  0
+ Städtebau II                          5                 1                  0
+
+ Digitale Werkstatt II                 5                 1                  0
+ Bauen im Bestand
+ Semesterentwürfe V                    10                1                  0
+
+ Zukunftsfähiges Entwerfen I           5                 1                  0
+ Recycling und ReUse                   5                 1                  0
+ Vertiefung Semesterentwürfe VI        10                1                  0
+
+ Zukunftsfähiges Entwerfen II          5                 1                  0
+ Planungs- und Baumanagement,
+ Bauorganisation                       5                 1                  0
+
+ Innenarchitektur                      5                 1                  0
+ Freiraum- und
+ Landschaftsarchitektur                5                 1                  0
+
+ Studienarbeit                         5                 1                  0
+ Praxisprojekt I                       20                0                  2
+ Praxisprojekt II                      20                2                  1
+ Praxisprojekt III                     8                 0                  2
+
+ Bachelorarbeit                        12                1                  0
+ Wahlmodul1                            5                 1                  0
+ Wahlmodul2                            5                 1                  0
+
+ Wahlmodul3                            5                 1                  0
+ Wahlmodul4                            5                 1                  0
+ Wahlmodul5                            5                 1                  0
+
+
+
+
+                                                                                  28 / 51
+2. Bauingenieurwesenfür die Studierenden, die bis zum 30. September 2020 immatrikuliert
+wurden
+
+
+                                           ECTS-           Anzahl         Anzahl
+ Modul                                Leistungspunkte     benotete      unbenotete
+                                                         Prüfungsl.      Prüfungsl.
+ Kernmodule
+ Baukonstruktion I                           5               1               0
+
+ Technische Mechanik I                       5               1               0
+ Mathematik I                                5               1               0
+ Angewandte Mathematik und Physik            5               1               0
+
+ Persönlichkeitsbildung                      5               1               0
+ Bauphysikalische Grundlagen                 5               1               0
+ Technische Mechanik II                      5               1               0
+
+ Mathematik II                               5               1               0
+ Grundlagen Baustatik                        5               1               0
+ Technische Gebäudeausrüstung                5               1               0
+
+ Grundlagen Recht                            5               1               0
+ Digitalisierung im Bauwesen                 5               1               1
+ Umwelt und Energie                          5               1               0
+
+ Baurecht und Vertiefung BWL                 5               1               0
+ Studienarbeit                               5               1               0
+ Ausbildung und Arbeitsschutz                5               1               0
+
+ Praxisprojekt I                             20              0               2
+ Praxisprojekt II                            20              2               1
+ Praxisprojekt III                           8               0               2
+
+ Bachelorarbeit                              12              1               0
+ Studienrichtungsmodule
+ Studienrichtungsmodul1                      5               1               0
+
+ Studienrichtungsmodul2                      5               1               0
+ Studienrichtungsmodul3                      5               1               0
+ Studienrichtungsmodul4                      5               1               0
+ Studienrichtungsmodul5
+                                             5               1               0
+ Studienrichtungsmodul6                      5               1               0
+ Studienrichtungsmodul7                      5               1               0
+ Studienrichtungsmodul8
+                                             5               1               0
+ Studienrichtungsmodul9                      5               1               0
+ Studienrichtungsmodul10*                    5               1               0
+ Studienrichtungsmodul11*                    5               1               0
+
+ Studienrichtungsmodul12*                    5               1               0
+ Studienrichtungsmodul13*                    5               1               0
+ Studienrichtungsmodul14*                    5               1               0
+
+ Wahlmodul1                                  5               1               0
+ Wahlmodul2                                  5               1               0
+ Wahlmodul3                                  5               1               0
+
+ Wahlmodul4                                  5               1               0
+ Wahlmodul5                                  5               1               0
+ * je nach Studienrichtung (siehe Studiengangsbeschreibung)
+
+
+
+
+                                                                                  29 / 51
+3. Bauingenieurwesen für die Studierenden, die ab dem 1. Oktober 2020 immatrikuliert
+wurden
+
+
+                                                         Anzahl der       Anzahl der
+ Modul                                     ECTS-          benoteten      unbenoteten
+                                      Leistungspunkte
+                                                          Prüfungsl.      Prüfungsl.
+ Kernmodule
+ Baukonstruktion I                           5                1               0
+
+ Technische Mechanik I                       5                1               0
+ Mathematik I                                5                1               0
+ Naturwissenschaftliche Grundlagen           5                2               0
+
+ Technische Mechanik II                      5                1               0
+ Mathematik II                               5                1               0
+ Bauphysikalische Grundlagen                 5                1               0
+
+ Angewandte Wissenschaften I                 5                1               0
+ Grundlagen Baustatik                        5                1               0
+ Technische Gebäudeausrüstung                5                1               0
+
+ Wasser und Umwelt                           5                1               0
+ Persönlichkeitsbildung                      5                0               1
+ Baurecht                                    5                1               0
+ Digitalisierung im Bauwesen                 5                1               0
+
+ Studienarbeit                               5                1               0
+ Praxisprojekt I                             20               0               2
+ Praxisprojekt II                            20               2               1
+
+ Praxisprojekt III                           8                0               2
+ Bachelorarbeit                              12               1               0
+ Studienrichtungsmodule
+
+ Studienrichtungsmodul1                      5                1               0
+ Studienrichtungsmodul2                      5                1               0
+ Studienrichtungsmodul3                      5                1               0
+
+ Studienrichtungsmodul4                      5                1               0
+ Studienrichtungsmodul5                      5                1               0
+ Studienrichtungsmodul6                      5                1               0
+
+ Studienrichtungsmodul7                      5                1               1
+ Studienrichtungsmodul8                      5                1               0
+ Studienrichtungsmodul9                      5                1               0
+
+ Studienrichtungsmodul10                     5                1               0
+ Studienrichtungsmodul11*                    5                1               0
+ Studienrichtungsmodul12*                    5                1               1
+
+ Studienrichtungsmodul13*                    5                1               0
+ Studienrichtungsmodul14*                    5                1               0
+ Studienrichtungsmodul15*                    5                1               0
+
+ Wahlmodul1*                                 5                1               0
+ Wahlmodul2*                                 5                1               0
+ Wahlmodul3*                                 5                1               1
+
+ Wahlmodul4*                                 5                1               0
+ Wahlmodul5*                                 5                1               0
+ * je nach Studienrichtung (siehe Studiengangsbeschreibung)
+
+
+
+
+
+                                                                                  30 / 51
+4. Chemische Technik für die Studierenden, die bis zum 30. September 2021
+
+immatrikuliert wurden
+
+                                                           Anzahl           Anzahl
+ Modul                                     ECTS-          benotete        unbenotete
+                                      Leistungspunkte     Prüfungsl.      Prüfungsl.
+
+ Kernmodule
+ Mathematik                                  5                1               0
+ Mathematik II                               5                1               0
+
+ Mathematik III                              5                1               0
+ Allgemeine & anorganische Chemie            5                1               0
+ Programmieren                               5                1               0
+
+ Werkstoffkunde                              5                1               0
+ Physik                                      5                1               0
+ Organische Chemie                           5                1               0
+
+ Physikalische Chemie                        5                1               0
+ Management                                  5                1               0
+ Chemische Prozesskunde                      5                1               0
+
+ Thermodynamik                               5                1               0
+ Thermodynamik II                            5                1               0
+ Wärmeübertragung                            5                1               0
+
+ Mechanische Verfahrenstechnik               5                1               0
+ Chemische Reaktionstechnik                  5                1               0
+ Stoffübertragung                            5                1               0
+
+ Thermische Verfahrenstechnik                5                1               0
+ Studienarbeit                               10               1               0
+ Praxisprojekt I                             20               0               2
+
+ Praxisprojekt II                            20               2               1
+ Praxisprojekt III                           8                0               2
+ Bachelorarbeit                              12               1               0
+ Studienrichtungsmodule
+
+ Studienrichtungsmodul1                      5                1               0
+ Studienrichtungsmodul2                      5                1               0
+ Studienrichtungsmodul3                      5                1               0
+
+ Studienrichtungsmodul4                      5                1               0
+ Studienrichtungsmodul5                      5                1               0
+ Studienrichtungsmodul6                      5                1               0
+
+ Wahlmodul1                                  5                1               0
+ Wahlmodul2                                  5                1               0
+ Wahlmodul3                                  5                1               0
+
+ Wahlmodul4                                  5                1               0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                  31 / 51
+5. Chemische Technik für die Studierenden, die ab dem 1. Oktober 2021 immatrikuliert
+
+wurden
+
+                                                           Anzahl           Anzahl
+ Modul                                     ECTS-          benotete        unbenotete
+                                      Leistungspunkte     Prüfungsl.      Prüfungsl.
+
+ Kernmodule
+ Mathematik                                  5                1               0
+ Allgemeine und Anorganische Chemie          5                1               0
+
+ Programmieren                               5                1               0
+ Werkstoffkunde                              5                1               0
+ Physik                                      5                1               0
+
+ Mathematik II                               5                1               0
+ Organische Chemie                           5                1               0
+ Chemische Prozesskunde                      5                1               0
+
+ Management                                  5                1               0
+ Mathematik III                              5                1               0
+ Thermodynamik                               5                1               0
+
+ Physikalische Chemie                        5                1               0
+ Thermodynamik II                            5                1               0
+ Wärmeübertragung                            5                1               0
+
+ Mechanische Verfahrenstechnik               5                1               0
+ Chemische Reaktionstechnik                  5                1               0
+ Stoffübertragung                            5                1               0
+
+ Thermische Verfahrenstechnik                5                1               0
+ Studienarbeit                               10               1               0
+ Praxisprojekt I                             20               0               2
+
+ Praxisprojekt II                            20               2               1
+ Praxisprojekt III                           8                0               2
+ Bachelorarbeit                              12               1               0
+ Studienrichtungsmodule
+
+ Studienrichtungsmodul1                      5                1               0
+ Studienrichtungsmodul2                      5                1               0
+ Studienrichtungsmodul3                      5                1               0
+
+ Studienrichtungsmodul4                      5                1               0
+ Studienrichtungsmodul5                      5                1               0
+ Studienrichtungsmodul6                      5                1               0
+
+ Studienrichtungsmodul7                      5                1               0
+ Studienrichtungsmodul8                      5                1               0
+ Wahlmodul1                                  5                1               0
+
+ Wahlmodul2                                  5                1               0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                  32 / 51
+6. Elektrotechnik
+
+
+                                           ECTS-           Anzahl           Anzahl
+ Modul                                                    benotete        unbenotete
+                                      Leistungspunkte     Prüfungsl.      Prüfungsl.
+ Kernmodule
+
+ Mathematik I                                5                1               0
+ Mathematik II                               5                1               0
+ Physik                                      5                1               0
+
+ Grundlagen Elektrotechnik I                 5                1               0
+ Grundlagen Elektrotechnik II                5                1               1
+ Digitaltechnik                              5                1               0
+
+ Elektronik und Messtechnik I                5                1               0
+ Informatik I                                5                1               0
+ Informatik II                               5                1               0
+
+ Geschäftsprozesse                           5                1               0
+ Mathematik III                              5                1               1
+ Grundlagen Elektrotechnik III               5                1               1
+
+ Systemtheorie                               5                1               0
+ Regelungstechnik                            5                1               0
+ Elektronik und Messtechnik II               5                1               0
+
+ Mikrocomputertechnik                        5                1               0
+ Studienarbeit                               5                1               0
+ Studienarbeit II                            5                1               0
+ Praxisprojekt I                             20               0               2
+
+ Praxisprojekt II                            20               2               1
+ Praxisprojekt III                           8                0               2
+ Bachelorarbeit                              12               1               0
+
+ Studienrichtungsmodule
+ Studienrichtungsmodul1                      5                1               0
+ Studienrichtungsmodul2                      5                1               0
+
+ Studienrichtungsmodul3                      5                1               0
+ Studienrichtungsmodul4                      5                1               0
+ Studienrichtungsmodul5                      5                1               0
+
+ Wahlmodul1                                  5                1               0
+ Wahlmodul2                                  5                1               0
+ Wahlmodul3                                  5                1               0
+
+ Wahlmodul4                                  5                1               0
+ Wahlmodul5                                  5                1               0
+ Wahlmodul6                                  5                1               0
+
+ Wahlmodul7                                  5                1               0
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                  33 / 51
+7. Embedded Systems
+
+
+                                                                 Anzahl             Anzahl
+                                               ECTS-
+ Modul                                    Leistungspunkte        benotete         unbenotete
+                                                                Prüfungsl.        Prüfungsl.
+ Kernmodule
+
+ Mathematik I                                     5                 1                  0
+ Elektrotechnik I                                 5                 1                  0
+
+ Technische Informatik I                          5                 1                  0
+ Physik                                           5                 1                  0
+
+ Programmieren                                    9                 1                  0
+ Mathematik II                                    5                 1                  0
+ Elektrotechnik II                                5                 1                  0
+
+ Technische Informatik II                         8                 1                  0
+ Mathematik III                                   5                 1                  0
+
+ Elektronik                                       5                 1                  0
+ Systemtheorie                                    5                 1                  0
+
+ Microcomputertechnik                             5                 1                  0
+ Regelungstechnik                                 5                 1                  0
+
+ Studienarbeit                                    10                1                  0
+ Praxisprojekt I                                  20                0                  2
+
+ Praxisprojekt II                                 20                2                  1
+ Praxisprojekt III                                8                 0                  2
+ Bachelorarbeit                                   12                1                  0
+
+ Studienrichtungsmodule
+ Studienrichtungsmodul1                           5                 1                  0
+
+ Studienrichtungsmodul2                           5                 1                  0
+ Studienrichtungsmodul3                           9                 1                  0
+
+ Studienrichtungsmodul4                           5                 1                  0
+ Studienrichtungsmodul5                           5                 1                  0
+
+ Studienrichtungsmodul6                           5                 1                  0
+ Studienrichtungsmodul7                           5                 1                  0
+ Studienrichtungsmodul8                        4 bzw. 5*            1                  0
+
+ Wahlmodul1                                       5                 1                  0
+ Wahlmodul2                                       5                 1                  0
+
+ Wahlmodul3                                       5                 1                  0
+ Wahlmodul4                                       5                 1                  0
+
+ Wahlmodul5                                    4 bzw. 5*            1                  0
+ * je nach Studienrichtung (siehe Studiengangsbeschreibung)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                           34 / 51
+8. Holztechnik
+
+
+                                           ECTS-           Anzahl          Anzahl
+ Modul                                                    benotete       unbenotete
+                                      Leistungspunkte    Prüfungsl.       Prüfungsl.
+ Kernmodule
+
+ Mathematik                                  6               1                0
+ Technische Mechanik                         7               1                0
+ Betriebswirtschaftslehre                    7               1                0
+
+ Konstruktion                                8               1                0
+ Werkstoffkunde                              6               1                0
+ Werkstoffkunde II                           5               1                0
+
+ Physik                                      6               1                0
+ Elektrotechnik                              5               1                0
+ Informationsverarbeitung                    6               1                0
+
+ Betriebswirtschaftslehre II                 7               1                0
+ Mess-, Regel- und Steuerungstechnik         7               1                0
+ Technische Mechanik II                      7               1                0
+
+ Verfahrenstechnik                           8               1                0
+ Schlüsselqualifikationen                    8               1                0
+ Praxisprojekt I                            20               0                2
+
+ Praxisprojekt II                           20               2                1
+ Praxisprojekt III                           8               0                2
+ Studienarbeit                               5               1                0
+ Bachelorarbeit                             12               1                0
+
+ Studienrichtungsmodule
+ Studienrichtungsmodul1                      5               1                0
+ Studienrichtungsmodul2                      5               1                0
+
+ Studienrichtungsmodul3                      5            1 bzw. 2*           0
+ Studienrichtungsmodul4*                     5               1                0
+ Wahlmodul1                                  5               1                0
+
+ Wahlmodul2                                  5               1                0
+ Wahlmodul3                                  5               1                0
+ Wahlmodul4                                  5               1                0
+
+ Wahlmodul5                                  7               1                0
+ Wahlmodul6                                  5               1                0
+ Wahlmodul7*                                 5               1                0
+
+*je nach Studienrichtung (siehe Studiengangsbeschreibung)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                  35 / 51
+9. Informatik
+
+
+                                           ECTS-           Anzahl           Anzahl
+ Modul                                                    benotete        unbenotete
+                                      Leistungspunkte     Prüfungsl.      Prüfungsl.
+ Kernmodule
+
+ Mathematik I                                8                2               0
+ Theoretische Informatik I                   5                1               0
+ Theoretische Informatik II                  5                1               0
+
+ Programmieren                               9                1               0
+ Schlüsselqualifikationen                    5                1               0
+ Technische Informatik I                     5                1               0
+
+ Mathematik II                               6                2               0
+ Theoretische Informatik III                 6                1               0
+ Software Engineering I                      9                1               0
+
+ Datenbanken                                 6                1               0
+ Technische Informatik II                    8                1               0
+ Kommunikations- und Netztechnik             5                1               0
+
+ Software Engineering II                     5                1               0
+ IT-Sicherheit                               5                1               0
+ Studienarbeit                               10               1               0
+
+ Praxisprojekt I                             20               0               2
+ Praxisprojekt II                            20               2               1
+ Praxisprojekt III                           8                0               2
+ Bachelorarbeit                              12               1               0
+
+ Studienrichtungsmodule
+ Studienrichtungsmodul1                      3                1               0
+ Studienrichtungsmodul2                      5                1               0
+
+ Studienrichtungsmodul3                      5                1               0
+ Studienrichtungsmodul4                      5                1               0
+ Wahlmodul1                                  5                1               0
+
+ Wahlmodul2                                  5                1               0
+ Wahlmodul3                                  5                1               0
+ Wahlmodul4                                  5                1               0
+
+ Wahlmodul5                                  5                1               0
+ Wahlmodul6                                  5                1               0
+ Wahlmodul7                                  5                1               0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                  36 / 51
+10. Integrated Engineering
+
+
+                                                         Anzahl der       Anzahl der
+ Modul                                     ECTS-          benoteten      unbenoteten
+                                      Leistungspunkte     Prüfungsl.      Prüfungsl.
+
+ Kernmodule
+ Mathematik I                                5                1               0
+
+ Mathematik II                               5                1               0
+ Elektrotechnik                              5                1               0
+ Grundlagen der Informatik                   5                1               1
+
+ Maschinenbau I                              5                1               0
+ Einführung Projektmanagement                5                1               0
+ Grundlagen VWL-BWL                          5                1               1
+
+ Integrated Engineering I                    5                1               0
+ Integrated Engineering II                   5                1               0
+
+ Technische Anwendungen                      5                1               0
+ Digitalisierung und Vernetzung              5                1               0
+ Geschäftsmodelle und Prozesse               5                1               0
+
+ Studienarbeit                               5                1               0
+ Studienarbeit II                            5                1               0
+ Praxisprojekt I                             20               0               2
+
+ Praxisprojekt II                            20               2               1
+ Praxisprojekt III                           8                0               2
+
+ Bachelorarbeit                              12               1               0
+ Studienrichtungsmodule
+ Studienrichtungsmodul1                      5                1               1
+
+ Studienrichtungsmodul2                      5                1               0
+ Studienrichtungsmodul3                      5                1               0
+ Studienrichtungsmodul4                      5                1               0
+
+ Studienrichtungsmodul5                      5                1               0
+ Studienrichtungsmodul6                      5                1               0
+ Studienrichtungsmodul7                      5                1               0
+
+ Studienrichtungsmodul8                      5                1               0
+ Wahlmodul1                                  5                1               0
+
+ Wahlmodul2                                  5                1               0
+ Wahlmodul3                                  5                1               0
+ Wahlmodul4                                  5                1               0
+
+ Wahlmodul5                                  5                1               0
+ Wahlmodul6                                  5                1               0
+ Wahlmodul7                                  5                1               0
+
+ Wahlmodul8                                  5                1               0
+
+
+
+
+
+
+
+
+
+
+
+                                                                                  37 / 51
+11. Luft- und Raumfahrttechnik
+
+
+                                           ECTS-           Anzahl           Anzahl
+ Modul                                                    benotete        unbenotete
+                                      Leistungspunkte     Prüfungsl.      Prüfungsl.
+ Kernmodule
+
+ Mathematik I                                5                1               0
+ Werkstoffkunde                              5                1               1
+ Elektrotechnik I                            5                1               0
+
+ Technische Mechanik I                       5                1               0
+ Konstruktionslehre                          5                1               0
+ Geschäftsprozesse und Methoden              5                1               0
+
+ Mathematik II                               5                1               0
+ Physik                                      5                1               0
+ Elektrotechnik II                           5                1               1
+
+ Technische Mechanik II                      5                1               0
+ Mathematik III                              5                1               0
+ Informatik I                                5                1               0
+
+ Systemtheorie                               5                1               0
+ Regelungstechnik                            5                1               0
+ Studienarbeit                               5                1               0
+
+ Studienarbeit II                            5                1               0
+ Praxisprojekt I                             20               0               2
+ Praxisprojekt II                            20               2               1
+ Praxisprojekt III                           8                0               2
+
+ Bachelorarbeit                              12               1               0
+ Studienrichtungsmodule
+ Studienrichtungsmodul1                      7                1               0
+
+ Studienrichtungsmodul2                      6                1               0
+ Studienrichtungsmodul3                      5                1               0
+ Studienrichtungsmodul4                      5                1               0
+
+ Studienrichtungsmodul5                      7                1               1
+ Studienrichtungsmodul6                      5                1               0
+ Studienrichtungsmodul7                      5                1               0
+
+ Wahlmodul1                                  5                1               0
+ Wahlmodul2                                  5                1               0
+ Wahlmodul3                                  5                1               0
+
+ Wahlmodul4                                  5                1               0
+ Wahlmodul5                                  5                1               0
+ Wahlmodul6                                  5                1               0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                  38 / 51
+12. Maschinenbau
+
+
+                                           ECTS-           Anzahl           Anzahl
+ Modul                                                    benotete        unbenotete
+                                      Leistungspunkte     Prüfungsl.      Prüfungsl.
+ Kernmodule
+
+ Konstruktion                                5                1               0
+ Fertigungstechnik                           5                1               0
+ Werkstoffe                                  5                1               0
+
+ Technische Mechanik + Festigkeitslehre      5                1               0
+ Mathematik                                  5                1               0
+ Informatik                                  5                1               0
+
+ Elektrotechnik                              5                1               0
+ Konstruktion II                             5                1               0
+ Technische Mechanik + Festigkeitslehre II   5                1               0
+
+ Mathematik II                               5                1               0
+ Technische Mechanik + Festigkeitslehre      5                1               0
+ III
+ Mathematik III                              5                1               0
+
+ Thermodynamik                               5                1               1
+ Studienarbeit* oder                         10               1               0
+ Studienarbeit und Studienarbeit II* oder    10               2               0
+
+ Studienarbeit und Wahlfach*                 10               2               0
+ Praxisprojekt I                             20               0               2
+ Praxisprojekt II                            20               2               1
+
+ Praxisprojekt III                           8                0               2
+ Bachelorarbeit                              12               1               0
+ Studienrichtungsmodule
+ Studienrichtungsmodul1                      5                1               0
+
+ Studienrichtungsmodul2                      5                1               0
+ Studienrichtungsmodul3                      5                1               0
+ Studienrichtungsmodul4                      5                1               0
+
+ Studienrichtungsmodul5                      5                1               0
+ Studienrichtungsmodul6                      5                1               0
+ Studienrichtungsmodul7                      5                1               0
+
+ Wahlmodul1                                  5                1               0
+ Wahlmodul2                                  5                1               0
+ Wahlmodul3                                  5                1               0
+
+ Wahlmodul4                                  5                1               0
+ Wahlmodul5                                  5                1               0
+ Wahlmodul6                                  5                1               0
+
+ Wahlmodul7                                  5                1               0
+ Wahlmodul8                                  5                1               0
+ *wird durch die Studienakademie festgelegt
+
+
+
+
+
+
+
+
+
+
+                                                                                  39 / 51
+13. Mechatronik
+
+
+                                           ECTS-           Anzahl           Anzahl
+ Modul                                                    benotete        unbenotete
+                                      Leistungspunkte     Prüfungsl.      Prüfungsl.
+ Kernmodule
+
+ Mathematisch naturwissenschaftliche         5                1               0
+ Grundlagen
+ Grundlagen Elektrotechnik und
+ Messtechnik                                 5                1               0
+ Informatik                                  5                1               0
+
+ Grundlagen Maschinenbau                     5                1               0
+ Mathematisch naturwissenschaftliche
+ Grundlagen II                               5                1               0
+ Grundlagen Elektrotechnik II                5                1               0
+
+ Grundlagen Maschinenbau II                  5                1               0
+ Mechatronische Systeme                      5                1               0
+ Informatik II                               5                1               0
+
+ Mechatronische Systeme II                   5                1               0
+ Mechatronische Systeme III                  5                1               0
+ Mechatronische Systeme IV                   5                1               0
+
+ Studienarbeit                               5                1               0
+ Studienarbeit II                            5                1               0
+ Praxisprojekt I                             20               0               2
+
+ Praxisprojekt II                            20               2               1
+ Praxisprojekt III                           8                0               2
+ Bachelorarbeit                              12               1               0
+
+ Studienrichtungsmodule
+ Studienrichtungsmodul1                      5                1               0
+ Studienrichtungsmodul2                      5                1               0
+
+ Studienrichtungsmodul3                      5                1               0
+ Studienrichtungsmodul4                      5                1               0
+ Studienrichtungsmodul5                      5                1               0
+ Studienrichtungsmodul6                      5                1               0
+
+ Studienrichtungsmodul7                      5                1               0
+ Studienrichtungsmodul8*                     5                1               0
+ Wahlmodul1                                  5                1               1
+
+ Wahlmodul2                                  5                1               1
+ Wahlmodul3                                  5                1               0
+ Wahlmodul4                                  5                1               0
+
+ Wahlmodul5                                  5                1               1
+ Wahlmodul6                                  5                1               0
+ Wahlmodul7                                  5                1               0
+
+ Wahlmodul8                                  5                1               0
+ Wahlmodul9*                                 5                1               0
+*je nach Studienrichtung (siehe Studiengangsbeschreibung)
+
+
+
+
+
+
+
+
+                                                                                  40 / 51
+14. Medizintechnik
+
+
+                                           ECTS-           Anzahl           Anzahl
+ Modul                                Leistungspunkte     benotete        unbenotete
+                                                          Prüfungsl.      Prüfungsl.
+ Kernmodule
+
+ Angewandte Mathematik I                     5                1               0
+ Grundlagen der Elektrotechnik I             5                1               0
+ Informatik I                                5                1               0
+
+ Biomedizinische Grundlagen                  5                1               0
+ Medizinische Ethik und interdisziplinäre
+ Kommunikation                               5                1               0
+ Angewandte Mathematik II                    5                1               0
+
+ Allgemeine und medizinische Signaltheorie   5                1               0
+ Grundlagen der Elektrotechnik II            5                1               1
+ Informatik II                               5                1               0
+
+ Naturwissenschaftliche Grundlagen für die   5                1               0
+ Medizintechnik
+ Health Care                                 5                1               0
+ Analog Signal Processing for Bio-
+ Engineers                                   5                1               0
+
+ Electronic Circuits in Medicine             5                1               0
+ Digital Data Sciences                       5                1               0
+ Biomedical Engineering                      5                1               0
+
+ Digital Signal Processing                   5                1               0
+ Medical Information Technologies            5                1               0
+ Applied Mathematics for Biomedical
+ Engineers                                   5                1               0
+
+ Clinical Workflow                           5                1               0
+ Digital Image Processing                    5                1               0
+ Interface Synthesis                         5                1               0
+
+ Regulatory Affairs                          5                1               0
+ Studienarbeit I                             5                1               0
+ Studienarbeit II                            5                1               0
+
+ Praxisprojekt I                             20               0               2
+ Praxisprojekt II                            20               2               1
+ Praxisprojekt III                           8                0               2
+
+ Bachelorarbeit                              12               1               0
+ Wahlmodul1                                  5                1               0
+ Wahlmodul2                                  5                1               1
+
+ Wahlmodul3                                  5                1               0
+ Wahlmodul4                                  5                1               0
+ Wahlmodul5                                  5                1               0
+ Wahlmodul6                                  5                1               0
+
+
+
+
+
+
+
+
+
+
+
+                                                                                  41 / 51
+15. Papiertechnik
+
+
+                                           ECTS-           Anzahl           Anzahl
+ Modul                                                    benotete        unbenotete
+                                      Leistungspunkte     Prüfungsl.      Prüfungsl.
+ Kernmodule
+
+ Maschinenbau                                5                1               0
+ Elektrotechnik                              5                1               0
+ Technische Mechanik                         5                1               0
+
+ Chemie                                      5                1               0
+ Ingenieur-Mathematik                        5                1               0
+ Grundlagen Betriebswirtschaftslehre         5                1               0
+
+ Persönliche und betriebliche                5                1               0
+ Kommunikation
+ Verfahrenstechnik                           5                1               0
+ Wahrscheinlichkeitsrechnung,
+ Versuchsplanung und Statistik               5                1               0
+
+ Maschinenbau II                             5                1               1
+ Elektronik und Sensortechnik                5                1               0
+ Managementsysteme                           5                1               0
+
+ Grundlagen der Automatisierungstechnik      5                1               0
+ Grundlagen der Energietechnik               5                1               1
+ Fachenglisch Papiertechnik                  5                1               0
+
+ Managementsysteme II                        5                1               0
+ Studienarbeit                               5                1               0
+ Praxisprojekt I                             20               0               2
+
+ Praxisprojekt II                            20               2               1
+ Praxisprojekt III                           8                0               2
+ Bachelorarbeit                              12               1               0
+ Studienrichtungsmodule
+
+ Studienrichtungsmodul1                      5                1               0
+ Studienrichtungsmodul2                      5                1               0
+ Studienrichtungsmodul3                      5                1               0
+
+ Studienrichtungsmodul4                      5                1               0
+ Studienrichtungsmodul5                      5                1               0
+ Studienrichtungsmodul6                      5                1               0
+
+ Studienrichtungsmodul7                      5                1               0
+ Studienrichtungsmodul8                      5                1               0
+ Studienrichtungsmodul9                      5                1               0
+
+ Studienrichtungsmodul10                     5                1               0
+ Studienrichtungsmodul11                     5                1               0
+ Studienrichtungsmodul12                     5                1               0
+
+ Studienrichtungsmodul13                     5                1               0
+
+
+
+
+
+
+
+
+
+
+
+                                                                                  42 / 51
+16. Sicherheitswesen
+
+
+                                           ECTS-           Anzahl           Anzahl
+ Modul                                                    benotete        unbenotete
+                                      Leistungspunkte     Prüfungsl.      Prüfungsl.
+ Kernmodule
+
+ Mathematik                                  5                1               0
+ Technische Physik                           5                1               0
+ Anorganische Chemie                         5                1               0
+
+ Grundlagen Sicherheitswesen                 5                1               0
+ Grundlagen Umwelt- und Strahlenschutz       5                1               0
+ Mathematik II                               5                1               0
+
+ Technische Physik II                        5                1               0
+ Organische Chemie                           5                1               0
+ Sicherheitsmanagement                       5                1               0
+
+ Mathematik III                              5                1               0
+ Technische Physik III                       5                1               0
+ Biochemie                                   5                1               0
+ Projektmanagement und
+                                             5                1               0
+ Betriebswirtschaft
+ Mathematik IV                               5                1               0
+ Technische Physik IV                        5                1               0
+
+ Verfahrenstechnik                           5                1               0
+ Messen, Steuern, Regeln                     5                1               0
+ Ausbreitung von Schadstoffen                5                1               0
+
+ Sicherheitsmanagement II                    5                1               0
+ Bauwesen                                    5                1               0
+ Studienarbeit                               5                1               0
+ Studienarbeit II                            5                1               0
+
+ Praxisprojekt I                             20               0               2
+ Praxisprojekt II                            20               2               1
+ Praxisprojekt III                           8                0               2
+
+ Bachelorarbeit                              12               1               0
+ Studienrichtungsmodule
+ Studienrichtungsmodul1                      5                1               0
+
+ Studienrichtungsmodul2                      5                1               0
+ Studienrichtungsmodul3                      5                1               0
+ Studienrichtungsmodul4                      5                1               0
+
+ Studienrichtungsmodul5                      5                1               0
+ Studienrichtungsmodul6                      5                1               0
+ Studienrichtungsmodul7                      5                1               0
+
+ Studienrichtungsmodul8                      5                1               0
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                  43 / 51
+17. Sustainable Science and Technology für die Studierenden, die bis zum 30. September
+2023 immatrikuliert wurden
+
+
+                                           ECTS-           Anzahl           Anzahl
+ Modul                                                    benotete        unbenotete
+                                      Leistungspunkte     Prüfungsl.      Prüfungsl.
+ Kernmodule
+
+ Ressourcenmanagement I                      5                1               0
+ Chemie I                                    5                1               0
+ Mathematik I                                5                1               0
+
+ Physik I                                    5                1               0
+ Informationstechnologie I                   5                1               0
+ Ressourcenmanagement II                     5                1               0
+
+ Elektrotechnik: Grundlagen                  5                1               0
+ Mathematik II                               5                1               0
+ Physik II                                   5                1               0
+
+ Informationstechnologie II                  5                1               0
+ Ressourcenmanagement III                    5                1               0
+ Chemie II                                   5                1               0
+
+ Umwelt- und Energietechnologie:             5                1               0
+ Grundlagen
+ Verfahrenstechnik I: Grundlagen             5                1               0
+ Corporate Social Responsibility             5                1               0
+
+ Studienarbeit                               5                1               0
+ Praxisprojekt I                             20               0               2
+ Praxisprojekt II                            20               2               1
+
+ Praxisprojekt III                           8                0               2
+ Bachelorarbeit                              12               1               0
+ Studienrichtungsmodule
+
+ Studienrichtungsmodul1                      5                1               0
+ Studienrichtungsmodul2                      5                1               0
+ Studienrichtungsmodul3                      5                1               0
+
+ Studienrichtungsmodul4                      5                1               0
+ Studienrichtungsmodul5                      5                1               0
+ Studienrichtungsmodul6                      5                1               0
+ Studienrichtungsmodul7                      5                1               0
+
+ Studienrichtungsmodul8                      5                1               0
+ Studienrichtungsmodul9                      5                1               0
+ Studienrichtungsmodul10                     5                1               0
+
+ Wahlmodul1                                  5                1               0
+ Wahlmodul2                                  5                1               0
+ Wahlmodul3                                  5                1               0
+
+ Wahlmodul4                                  5                1               0
+
+
+
+
+
+
+
+
+
+
+
+                                                                                  44 / 51
+18. Sustainable Science and Technology für die Studierenden, die ab dem 1. Oktober
+2023 immatrikuliert wurden
+
+
+
+                                           ECTS-           Anzahl           Anzahl
+ Modul                                Leistungspunkte     benotete        unbenotete
+                                                          Prüfungsl.      Prüfungsl.
+
+ Kernmodule
+ Nachhaltige Betriebswirtschaftslehre        5                1               0
+
+ Chemie I                                    5                1               0
+ Mathematik I                                5                1               0
+ Physik I                                    5                1               0
+
+ Informationstechnologie I                   5                1               0
+ Ökologisches Ressourcenmanagement           5                1               0
+ Elektrotechnik: Grundlagen                  5                1               0
+
+ Mathematik II                               5                1               0
+ Physik II                                   5                1               0
+ Informationstechnologie II                  5                1               0
+
+ Projekt- und Qualitätsmanagement            5                1               0
+ Chemie II                                   5                1               0
+ Verfahrens- und Energietechnik:
+ Grundlagen                                  5                1               0
+
+ Rechtliche Gestaltungsgrundlagen der        5                1               0
+ Nachhaltigkeit
+ Nachhaltige Unternehmensführung             5                1               0
+ Studienarbeit                               5                1               0
+
+ Praxisprojekt I                             20               0               2
+ Praxisprojekt II                            20               2               1
+ Praxisprojekt III                           8                0               2
+
+ Bachelorarbeit                              12               1               0
+ Studienrichtungsmodule
+ Studienrichtungsmodul1                      5                1               0
+
+ Studienrichtungsmodul2                      5                1               0
+ Studienrichtungsmodul3                      5                1               0
+ Studienrichtungsmodul4                      5                1               0
+
+ Studienrichtungsmodul5                      5                1               0
+ Studienrichtungsmodul6                      5                1               0
+ Studienrichtungsmodul7                      5                1               0
+ Studienrichtungsmodul8                      5                1               0
+
+ Studienrichtungsmodul9                      5                1               0
+ Studienrichtungsmodul10                     5                1               0
+ Wahlmodule
+
+ Wahlmodul 1                                 5                1               0
+ Wahlmodul 2                                 5                1               0
+ Wahlmodul 3                                 5                1               0
+
+ Wahlmodul 4                                 5                1               0
+
+
+
+
+
+
+
+                                                                                  45 / 51
+19. Wirtschaftsingenieurwesen
+
+
+                                           ECTS-           Anzahl           Anzahl
+ Modul                                                    benotete        unbenotete
+                                      Leistungspunkte     Prüfungsl.      Prüfungsl.
+ Kernmodule
+
+ Mathematik                                  5                1               0
+ Volkswirtschaftslehre                       5                1               0
+ Informatik                                  5                1               0
+
+ Allgemeine Betriebswirtschaftslehre         5                1               0
+ Mathematik II                               5                1               0
+ Mathematik III                              5                1               0
+
+ Projektmanagement                           5                1               0
+ Finanz- und Rechnungswesen                  5                1               0
+ Recht                                       5                1               0
+
+ Marketing                                   5                1               0
+ Qualitätsmanagement                         5                1               0
+ Controlling                                 5                1               0
+
+ Unternehmensführung                         5                1               0
+ Studienarbeit                               5                1               0
+ Praxisprojekt I                             20               0               2
+
+ Praxisprojekt II                            20               2               1
+ Praxisprojekt III                           8                0               2
+ Bachelorarbeit                              12               1               0
+ Studienrichtungsmodule
+
+ Studienrichtungsmodul1                      5                1               0
+ Studienrichtungsmodul2                      5                1               0
+ Studienrichtungsmodul3                      5                1               0
+
+ Studienrichtungsmodul4                      5                1               0
+ Studienrichtungsmodul5                      5                1               0
+ Studienrichtungsmodul6                      5                1               0
+
+ Studienrichtungsmodul7                      5                1               0
+ Studienrichtungsmodul8                      5                1               0
+ Wahlmodul1                                  5                1               0
+
+ Wahlmodul2                                  5                1               0
+ Wahlmodul3                                  5                1               0
+ Wahlmodul4                                  5                1               0
+
+ Wahlmodul5                                  5                1               0
+ Wahlmodul6                                  5                1               0
+ Wahlmodul7                                  5                1               0
+
+ Wahlmodul8                                  5                1               0
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                  46 / 51
+                                                                                 Anlage 3
+                                                                                  (zu § 10)
+
+
+Notendefinitionen und Notenbeschreibungen
+
+
+Notenbeschreibung
+
+
+   Note         Definition       Die charakteristischen Leistungen jeder Notenstufe sind unten
+                                 angegeben. Es wird nicht erwartet, dass alle Kriterien bei jeder
+                                 einzelnen Prüfungsaufgabe abgeprüft werden, insgesamt soll
+                                 jedoch auf jeder Stufe des Studiengangs/Moduls grundsätzlich
+
+                                 jedes   Kriterium  abgefragt   werden,   wie   dies   in  den
+                                 Lernergebnissen der jeweiligen Stufe beschrieben ist, die im
+                                 „Definitive Course Document“ (= Modulbeschreibung) enthalten
+
+                                 sind.
+
+    1          „sehr gut“        Leistung und Ergebnis sind insgesamt hervorragend. Die Arbeit
+                                 der/des Studierenden übersteigt bei Weitem den üblichen
+             ausgezeichnet:      Standard. Das typische Leistungsniveau zeichnet sich hierbei
+
+             hervorragende       aus durch:
+                Leistung
+                                 - tiefgehendes Verstehen/Beherrschen des Lehrstoffs,
+                (1,0-1,2)        - sehr große Fähigkeiten und Ursprünglichkeit bei der
+
+                                    Anwendung von Schlüsselqualifikationen,
+                                 - tiefgehende Fähigkeiten in Analyse, Synthese, Beurteilung
+                                    und Problemlösung (höhere kognitive Fähigkeiten),
+
+                                 - Spitzenleistung im gesamten Spektrum der vorgegebenen
+                                    fachspezifischen/berufspraktischen Fähigkeiten.
+
+            sehr lobenswert:     Leistung und Ergebnis sind insgesamt von sehr hohem Niveau.
+
+           anerkennenswerte      Die Arbeit der/des Studierenden ist deutlich oberhalb des
+                Leistung         üblichen Standards. Das typische Leistungsniveau zeichnet sich
+                                 hierbei aus durch:
+                 (1,3-1,5)
+
+                                 - sehr gutes Verstehen/Beherrschendes Lehrstoffs,
+                                 - große Fähigkeiten und Ursprünglichkeit bei der Anwendung
+                                    von Schlüsselqualifikationen,
+                                 - große Fähigkeiten in Analyse, Synthese, Beurteilung und
+
+                                    Problemlösung (höhere kognitive Fähigkeiten),
+                                 - sehr gute Leistung im gesamten Spektrum der vorgegebenen
+                                    fachspezifischen / berufspraktischen Fähigkeiten.
+
+
+
+
+
+
+
+
+                                                                                    47 / 51
+2            „gut“          Leistung und Ergebnis sind insgesamt erreicht. Die Arbeit
+                            der/des Studierenden übersteigt den üblichen Standard. Das
+        ausgesprochen       typische Leistungsniveau zeichnet sich hierbei aus durch:
+
+          kompetente
+           Leistung         - gutes Wissen und Verstehen des Lehrstoffs,
+            (1,6-2,5)       - Studierende(r) ist sehr kompetent und zeigt Ursprünglichkeit
+                               bei der Anwendung von Schlüsselqualifikationen,
+
+                            - sehr kompetent in Analyse, Synthese, Beurteilung und
+                               Problemlösung (höhere kognitive Fähigkeiten),
+                            - eine sehr kompetente Leistung im gesamten Spektrum der
+                               vorgegebenen    fachspezifischen/berufspraktischen Fähig-
+
+                               keiten.
+
+3       „befriedigend“      Insgesamt eine befriedigende Leistung (gemäß den ausführlich
+                            beschriebenen Bewertungs- und Benotungsschematafür jede
+
+       zufriedenstellend:   Prüfung). Die Arbeit der/des Studierenden entspricht dem
+          kompetente        üblichen Standard. Das typische Leistungsniveau zeichnet sich
+           Leistung         hierbei aus durch:
+
+
+            (2,6-3,5)       - zufriedenstellendesWissen und Verständnis des Lehrstoffs,
+                            - die Fähigkeit, Schlüsselqualifikationenanzuwenden,
+                            - die   Fähigkeit zu Analyse, Synthese, Beurteilung und
+                               Problemlösung (höhere kognitive Fähigkeiten),
+
+                            - Beherrschen des definierten Spektrums fachbezogener
+                               /berufspraktischer Fähigkeiten.
+
+4        „ausreichend“      Insgesamt ein Leistungsniveau, das nur teilweise die geforderte
+
+                            Kompetenz erreicht. Die Arbeit der/des Studierenden insgesamt
+       Leistungsgrenze      ist im Grenzbereich. Das typische Leistungsniveau zeichnet sich
+        („Borderline“):     hierbei aus durch:
+      Mindestanforderung
+
+           en erfüllt       - wenig    befriedigendes   fachbezogenes     Wissen    und
+                               Verständnis des Lehrstoffs,
+            (3,6-4,0)       - Fähigkeit, Schlüsselqualifikationenanzuwenden,
+                            - die Fähigkeit   zu Analyse, Synthese,     Beurteilung und
+
+                               Problemlösung (höhere kognitive Fähigkeiten),
+                            - Beherrschung      der    meisten     der    vorgegebenen
+                               fachbezogenen/ berufspraktischen Fähigkeiten.
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                              48 / 51
+    5     “nicht ausreichend”    Insgesamt ist das vom Studierenden gezeigte
+                                 Leistungsniveau deutlich unterhalb der Mindestanforderungen.
+           Ungenügend: nicht     Das typische Leistungsniveau zeichnet sich hierbei aus
+
+           den Anforderungen     durch:
+             entsprechend
+                (4,1-5,0)        - kein oder sehr begrenztes Wissen und/oder Verständnis des
+                                    Lehrstoffs,
+
+                                 - kein oder sehr begrenzter Erfolg bei der Anwendung von
+                                    Schlüsselqualifikationen,
+                                 - kein oder sehr begrenzter Nachweis von Analyse, Synthese,
+                                    Beurteilung und Problemlösung zu einem gewissen Grad
+
+                                    (höhere kognitive Fähigkeiten),
+                                 - kein   oder   nur   sehr   begrenztes    Beherrschen    der
+                                    vorgegebenen    fachbezogenen      /   berufspraktischen
+                                    Fähigkeiten.
+
+
+
+
+Lehrstoff: wird geprüft unter den Gesichtspunkten Wissen, Verstehen, Anwendung.
+
+
+Schlüsselqualifikationen: werden geprüft unter den Gesichtspunkten Kommunikation und
+Präsentation, mathematische Fähigkeiten, IT und EDV, Interaktion und Gruppenarbeit,
+eigenständiges Lernen.
+
+
+Höhere kognitive Fähigkeiten: werden geprüft unter den Gesichtspunkten Analyse,
+Synthese, Beurteilung, Problemlösung.
+
+
+Fachbezogene/berufspraktischeFähigkeiten: werden geprüft unter den Anforderungen des
+Studiengangs.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                    49 / 51
+                                                                                    Anlage 4
+                                                                                      (zu § 9)
+
+
+Modifizierte Bayerische Formel
+
+
+Die Kultusministerkonferenz (Beschluss der Kultusministerkonferenz vom 15.3.1991 in der
+
+Fassung vom 19.07.2012) empfiehlt zur Umrechnung von Prüfungsleistungen in der Regel die
+Modifizierte Bayerische Formel. Diese bildet als funktionaler Zusammenhang einen Notenwert
+(Punkte-wert)   des   ursprünglichen   Bewertungssystems     auf  das   nun   anzuwendende
+
+Notensystem ab.
+
+Die modifizierte bayerische Formel lautet:
+
+
+x = 1 + 3 ∙N max-Nd
+           Nmax-N min
+
+
+mit den Werten
+
+X = gesuchte Note
+
+
+Daten der umzurechnenden Ausgangsbewertung:
+
+    •  Nmax = Gesamtpunktzahl/Beste Note
+
+    •  Nmin = unterer Eckwert; minimaler Bestehenswert (Note oder Punkte)
+    •  Nd = in das deutsche Notensystem zu transformierende Note / Punkte
+
+Der Gültigkeitsbereich ist auf die genügenden Noten eingeschränkt.
+
+
+Beispiel:
+
+
+Die ursprüngliche Notenskala reicht von Note 0 bis Note 10. Aus den vorgelegten Unterlagen
+geht hervor, dass die erreichbare Höchstnote 10 (Nmax = 10) und die unterste Bestehensnote
+5 (Nmin = 5) ist. Der Student hat in der Prüfung die Note 8 (Nd = 8) erreicht. Nach Anwendung
+der modifizierten bayerischen Formel ergibt sich durch die Umrechnung die Note 2,2.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                       50 / 51
+              Beispiel                          Umrechnung
+
+               10       Beste Note
+                        (1,0 an der
+
+                         DHBW)
+               9                                      10 - 8
+
+               8                        X = 1 + 3 • -------------- = 2,2
+
+Bestanden      7                                      10 - 5
+
+               6
+               5         Unterste
+
+                      Bestehensnote
+                      (entspricht 4,0
+                      an der DHBW)
+
+               4
+
+  Nicht        3
+Bestanden
+               2
+               1
+
+               0       Minimalnote
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                           51 / 51

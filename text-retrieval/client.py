@@ -1,6 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-
 from elasticsearch import Elasticsearch
 import os
 
@@ -21,7 +18,7 @@ class TextSearcher:
                 "properties": {
                     "content": {
                         "type": "text",
-                        "analyzer": "german"  # Für deutsche Texte optimiert
+                        "analyzer": "german"
                     },
                     "filename": {
                         "type": "keyword"
@@ -36,7 +33,7 @@ class TextSearcher:
         else:
             print(f"Index '{self.index_name}' existiert bereits.")
     
-    def index_text_file(self, file_path='text.txt'):
+    def index_text_file(self, file_path='./data/stupro_list.txt'):
 
         try:
             with open(file_path, 'r', encoding='utf-8') as file:
@@ -75,11 +72,21 @@ class TextSearcher:
                     }
                 }
             },
+            # "query": { # funktioniert nicht so richtig mit AND und OR
+            #     "simple_query_string": {
+            #         "query": query,  # z.B. "Bachelor AND DHBW"
+            #         "fields": ["content"],
+            #         "default_operator": "and",
+            #     }
+            # },
             "highlight": {
                 "fields": {
                     "content": {
                         "fragment_size": 150,
-                        # "number_of_fragments": 3
+                        "number_of_fragments": 10,
+                        "pre_tags": ["\u001b[33m"], # Gelb
+                        "post_tags": ["\u001b[0m"],
+                        "order": "score"
                     }
                 }
             }
@@ -139,8 +146,9 @@ def main():
     
     searcher.create_index()
     
-    print("Indexiere text.txt...")
-    searcher.index_text_file('text.txt')
+    file_path = './data/stupro_list.txt'
+    print(f"Indexiere {file_path}...")
+    searcher.index_text_file(file_path)
     
     print("\n" + "="*50)
     print("Elasticsearch Textsuche gestartet!")

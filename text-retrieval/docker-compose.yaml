@@ -1,17 +1,9 @@
-version: '3.8'
-
 services:
   elasticsearch:
-    image: elasticsearch:8.8.0
+    image: elasticsearch:9.0.2
     container_name: elasticsearch
     ports:
       - "9200:9200"
     environment:
       - discovery.type=single-node
       - xpack.security.enabled=false
-    networks:
-      - elasticnet
-
-networks:
-  elasticnet:
-    driver: bridge

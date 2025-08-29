@@ -305,4 +305,3 @@ P26A3S1 Sechs Monate nach Abschluss der Prüfung darf die Studienakademie von Am
 P27A1S1 Diese Satzung tritt zum 1. Oktober 2023 in Kraft.
 P27A1S2 Sie gilt für Studierende, die zu diesem Zeitpunkt im Studienbereich Technik der DHBW immatrikuliert sind oder ab diesem Zeitpunkt immatrikuliert werden.
 P27A2S1 Für bereits begonnene Prüfungsrechtsverhältnisse oder begonnene Module gelten die Regelungen der Satzung in der bei Beginn des Prüfungsrechtsverhältnisses oder Moduls geltenden Version.
-
